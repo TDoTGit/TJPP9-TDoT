@@ -1,0 +1,214 @@
+{
+ "content": [
+  {
+   "addition": "ДОКТОР",
+   "hasSpace": true,
+   "id": "92529",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "ЛИЛ",
+   "hasSpace": true,
+   "id": "92530",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "КАПИТАН",
+   "hasSpace": true,
+   "id": "92531",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "ДИДЖЕЙ",
+   "hasSpace": true,
+   "id": "92532",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "ДИТЯ",
+   "hasSpace": true,
+   "id": "92533",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "-КО",
+   "hasSpace": false,
+   "id": "92534",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "-СИТИ",
+   "hasSpace": false,
+   "id": "92535",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "-ИК",
+   "hasSpace": false,
+   "id": "92536",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "МЛ.",
+   "hasSpace": true,
+   "id": "92537",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "ВЕЛИКИЙ",
+   "hasSpace": true,
+   "id": "92538",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "2.0",
+   "hasSpace": true,
+   "id": "92762",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "3.0",
+   "hasSpace": false,
+   "id": "92763",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "ШЕФ",
+   "hasSpace": true,
+   "id": "93987",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "[n]КУЗЕН[/n][f]КУЗИНА[/f][m]КУЗЕН[/m]",
+   "hasSpace": true,
+   "id": "93988",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "В ЗАКОНЕ",
+   "hasSpace": true,
+   "id": "93989",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "[n]МАЛЫШ[/n][f]МАЛЫШКА[/f][m]МАЛЫШ[/m]",
+   "hasSpace": true,
+   "id": "93991",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "АДМИРАЛ",
+   "hasSpace": true,
+   "id": "93992",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "МАЙОР",
+   "hasSpace": true,
+   "id": "93993",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "МЭР",
+   "hasSpace": true,
+   "id": "93994",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "ПРОФЕССОР",
+   "hasSpace": true,
+   "id": "93995",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "MC",
+   "hasSpace": true,
+   "id": "93996",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "[n]ЛОРД[/n][f]ЛЕДИ[/f][m]ЛОРД[/m] ",
+   "hasSpace": true,
+   "id": "93997",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "ПРЕЗИДЕНТ",
+   "hasSpace": true,
+   "id": "93998",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "СЕРЖАНТ",
+   "hasSpace": true,
+   "id": "93999",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "-ЗИЛЛА",
+   "hasSpace": false,
+   "id": "94001",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": ", ДОКТОР НАУК",
+   "hasSpace": false,
+   "id": "94002",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "МАГИСТР",
+   "hasSpace": true,
+   "id": "94003",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "[n]ЗЛОЙ[/n][f]ЗЛАЯ[/f][m]ЗЛОЙ[/m]",
+   "hasSpace": true,
+   "id": "94004",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "-ИНАТОР",
+   "hasSpace": false,
+   "id": "94005",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "-ТОП",
+   "hasSpace": false,
+   "id": "94007",
+   "isValid": "",
+   "type": "SUFFIX"
+  }
+ ]
+}

@@ -1,0 +1,904 @@
+{
+ "content": [
+  {
+   "controllerPrompt": "Что этот игрок делает?",
+   "countrySpecific": false,
+   "id": "87756",
+   "isValid": "",
+   "prompt": "Кто это и что он делает?",
+   "scenario": "{{PLAYER}} доводит вас до слёз.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Каким образом этот игрок жульничает?",
+   "countrySpecific": false,
+   "id": "87757",
+   "isValid": "",
+   "prompt": "Кто это и каким образом он жульничает?",
+   "scenario": "Вы видели, как {{PLAYER}} жульничает во время игры в карты.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок скрывает?",
+   "countrySpecific": false,
+   "id": "87759",
+   "isValid": "",
+   "prompt": "Кто это и что он скрывает?",
+   "scenario": "{{PLAYER}} что-то не договаривает.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок делает?",
+   "countrySpecific": false,
+   "id": "87760",
+   "isValid": "",
+   "prompt": "Кто это и что он делает?",
+   "scenario": "{{PLAYER}} срывает ваше выступление на домашнем шоу талантов!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок говорит?",
+   "countrySpecific": false,
+   "id": "87761",
+   "isValid": "",
+   "prompt": "Кто это был и ЧТО он говорит?",
+   "scenario": "Вы слышите, как {{PLAYER}} отпускает язвительный комментарий в ваш адрес.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Кого этот игрок прячет?",
+   "countrySpecific": false,
+   "id": "87762",
+   "isValid": "",
+   "prompt": "Кто это и кого он прячет?",
+   "scenario": "{{PLAYER}} кого-то прячет в доме!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок постит?",
+   "countrySpecific": false,
+   "id": "87763",
+   "isValid": "",
+   "prompt": "Кто это и что он постит?",
+   "scenario": "{{PLAYER}} нарушает правила и размещает рекламные посты в социальных сетях.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "В чём дело?",
+   "countrySpecific": false,
+   "id": "87764",
+   "isValid": "",
+   "prompt": "О ком идёт речь и в чём дело?",
+   "scenario": "Кто-то созывает домашнее совещание и говорит: “{{PLAYER}}! ВРЕМЯ ОБСУДИТЬ СЛОЖИВШУЮСЯ СИТУАЦИЮ!”.                                                                                                                                                                      ",
+   "x": false
+  },
+  {
+   "controllerPrompt": "В чём, скорее всего, заключается проблема?",
+   "countrySpecific": false,
+   "id": "87765",
+   "isValid": "",
+   "prompt": "Кто это и в чём, скорее всего, заключается проблема?",
+   "scenario": "Очевидно, что {{PLAYER}} настроен против вас.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что сейчас в банке?",
+   "countrySpecific": false,
+   "id": "87767",
+   "isValid": "",
+   "prompt": "Кто это делает и что сейчас в банке?",
+   "scenario": "{{PLAYER}} всё время съедает вашу нутеллу, а затем наполняет банку чем-то другим.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок делает?",
+   "countrySpecific": false,
+   "id": "87768",
+   "isValid": "",
+   "prompt": "Кто это и что он делает?",
+   "scenario": "{{PLAYER}} делает нечто душераздирающее.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок разбрасывает?",
+   "countrySpecific": false,
+   "id": "87772",
+   "isValid": "",
+   "prompt": "Кто это и что он разбрасывает?",
+   "scenario": "{{PLAYER}} постоянно бросает свои личные вещи в общей комнате.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что случилось?",
+   "countrySpecific": false,
+   "id": "87774",
+   "isValid": "",
+   "prompt": "Кто это и что случилось? ",
+   "scenario": "{{PLAYER}} странно пахнет.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Почему вы это сделали?",
+   "countrySpecific": false,
+   "id": "87775",
+   "isValid": "",
+   "prompt": "Кто это и почему вы испачкали именно этого игрока?",
+   "scenario": "{{PLAYER}} вытирает утреннюю кашу с одежды. И испачкали его ВЫ!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что это за слух?",
+   "countrySpecific": false,
+   "id": "87776",
+   "isValid": "",
+   "prompt": "Кто это и что это за слух?",
+   "scenario": "{{PLAYER}} становится объектом какого-то слуха.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок делает?",
+   "countrySpecific": false,
+   "id": "87777",
+   "isValid": "",
+   "prompt": "Кто это и что он делеает?",
+   "scenario": "Камеры в доме засняли, как {{PLAYER}} делает что-то поздно ночью!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что вы сказали этому игроку?",
+   "countrySpecific": false,
+   "id": "87780",
+   "isValid": "",
+   "prompt": "Кто это был и что вы ему сказали?",
+   "scenario": "{{PLAYER}} узнаёт от вас суровую правду, которую он не был готов услышать.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Какие обязанности по дому этот игрок не выполняет?",
+   "countrySpecific": false,
+   "id": "87781",
+   "isValid": "",
+   "prompt": "Кто это и какие обязанности по дому он не выполняет?",
+   "scenario": "{{PLAYER}} прокрастинирует. НЕ КРУТО.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что это за песня?",
+   "countrySpecific": false,
+   "id": "87782",
+   "isValid": "",
+   "prompt": "Кто её включает и что это за песня?",
+   "scenario": "{{PLAYER}} постоянно включает ОДНУ И ТУ ЖЕ песню у бассейна.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что на фото?",
+   "countrySpecific": false,
+   "id": "87783",
+   "isValid": "",
+   "prompt": "Кто это и что на фото?",
+   "scenario": "Вы нашли фото, которое {{PLAYER}} прячет под подушкой.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "В чём секрет успеха этого игрока?",
+   "countrySpecific": false,
+   "id": "87784",
+   "isValid": "",
+   "prompt": "Кто это и что он делает для этого?",
+   "scenario": "Кажется, {{PLAYER}} - фаворит зрителей!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Как этот игрок жульничает?",
+   "countrySpecific": false,
+   "id": "87785",
+   "isValid": "",
+   "prompt": "Кто это и каким образом он жульничает?",
+   "scenario": "{{PLAYER}}, по слухам, жульничает в Квартиранге.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Какую ошибку этот игрок совершает?",
+   "countrySpecific": false,
+   "id": "87789",
+   "isValid": "",
+   "prompt": "Кто это и какую ошибку он совершает?",
+   "scenario": "{{PLAYER}} совершает одну и ту же ошибку, которая, возможно, испортит ему всю игру.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Как вы догадались, что это именно этот игрок?",
+   "countrySpecific": false,
+   "id": "87790",
+   "isValid": "",
+   "prompt": "Кто это и как вы догадались, что это именно он?",
+   "scenario": "{{PLAYER}} оказывается \"злодеем шоу\"...",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок делает?",
+   "countrySpecific": false,
+   "id": "87791",
+   "isValid": "",
+   "prompt": "Кто это и что он делает?",
+   "scenario": "{{PLAYER}} делает нечто, что завирусилось по всему интернету!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Опишите чью-то стратегию в двух словах.",
+   "countrySpecific": false,
+   "id": "87792",
+   "isValid": "",
+   "prompt": "{{PLAYER}} продумывает новую стратегию. Опишите её в двух словах.",
+   "scenario": "Каждый привносит в Квартиранг свою стратегию...",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что в этом сообщении?",
+   "countrySpecific": false,
+   "id": "87795",
+   "isValid": "",
+   "prompt": "Кто это и что в этом сообщении?",
+   "scenario": "Квадрокоптер, пролетая над домом, записал видео, в котором {{PLAYER}} пишет вам сообщение.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок пришивает?",
+   "countrySpecific": false,
+   "id": "87861",
+   "isValid": "",
+   "prompt": "Кто это и что он пришивает?",
+   "scenario": "Вы увидели, что {{PLAYER}} пришивает нечто опасное на подушку, готовясь к битве на подушках!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что сжигает этот игрок?",
+   "countrySpecific": false,
+   "id": "87864",
+   "isValid": "",
+   "prompt": "Кто это и что он сжигает?",
+   "scenario": "{{PLAYER}} сжигает что-то очень важное для вас.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок делает в ванне?",
+   "countrySpecific": false,
+   "id": "88011",
+   "isValid": "",
+   "prompt": "Кто это и что он делает в ванне?",
+   "scenario": "Никто не хочет говорить о том, что {{PLAYER}} делает в горячей ванне.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Почему кто-то из игроков обвиняется в колдовстве?",
+   "countrySpecific": false,
+   "id": "88184",
+   "isValid": "",
+   "prompt": "{{PLAYER}} обвиняется в колдовстве! Объясните всем, почему.",
+   "scenario": "Обвинения в колдовстве СНОВА звучат в доме!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Почему он это сделал?",
+   "countrySpecific": false,
+   "id": "88189",
+   "isValid": "",
+   "prompt": "Кто это и почему он это сделал?",
+   "scenario": "{{PLAYER}} подставляет вам подножку во время показа мод.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "С чего всё началось?",
+   "countrySpecific": false,
+   "id": "88190",
+   "isValid": "",
+   "prompt": "Кто это и с чего всё началось?",
+   "scenario": "{{PLAYER}} так злит вас, что вы хотите толкнуть его в кучу мусора.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок добавляет в свою лазанью?",
+   "countrySpecific": false,
+   "id": "88191",
+   "isValid": "",
+   "prompt": "Кто это и что он добавляет в свой шедевр?",
+   "scenario": "На конкурсе лазаний {{PLAYER}} обыгрывает всех.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Как вы ответите этому игроку?",
+   "countrySpecific": false,
+   "id": "88247",
+   "isValid": "",
+   "prompt": "Кто это и как вы ему ответите?",
+   "scenario": "Разногласия в клубе. {{PLAYER}} провоцирует вас!",
+   "x": true
+  },
+  {
+   "controllerPrompt": "Из-за какого поступка вы ДО СИХ ПОР в ярости?",
+   "countrySpecific": false,
+   "id": "88253",
+   "isValid": "",
+   "prompt": "Что такого сделал {{PLAYER}}, что ты ДО СИХ ПОР в ярости?",
+   "scenario": "Вы уже давно здесь. Зарождаются разногласия.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что это за место?",
+   "countrySpecific": false,
+   "id": "88261",
+   "isValid": "",
+   "prompt": "Кто это и что это за место?",
+   "scenario": "{{PLAYER}} писает в неположеном месте.",
+   "x": true
+  },
+  {
+   "controllerPrompt": "Что этот игрок написал в записке?",
+   "countrySpecific": false,
+   "id": "88263",
+   "isValid": "",
+   "prompt": "Кто это и что было в записке?",
+   "scenario": "Вот те на! {{PLAYER}} кладёт угрожающую записку на вашу подушку!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что это за \"другое слово\"?",
+   "countrySpecific": false,
+   "id": "88292",
+   "isValid": "",
+   "prompt": "Кто это и что это за \"другое слово\"?",
+   "scenario": "Вы увидели, как {{PLAYER}} гуглит \"своё имя + другое слово\".",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что произошло?",
+   "countrySpecific": false,
+   "id": "88293",
+   "isValid": "",
+   "prompt": "Кого вы вините и что произошло?",
+   "scenario": "Вызывайте скорую! Вы подвернули лодыжку! Спасибо тебе, {{PLAYER}}!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что говорит этот игрок?",
+   "countrySpecific": false,
+   "id": "88316",
+   "isValid": "",
+   "prompt": "Кто это и что он говорит?",
+   "scenario": "Вы услышали, как {{PLAYER}} говорит сам с собой в галерее.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок говорит Зиверт?",
+   "countrySpecific": false,
+   "id": "88318",
+   "isValid": "",
+   "prompt": "Кто это и что он говорит ей?",
+   "scenario": "{{PLAYER}} говорит что-то, что расстраивает нашего звёздного гостя, Юлию Зиверт.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Как вы успокоите этого игрока?",
+   "countrySpecific": false,
+   "id": "88359",
+   "isValid": "",
+   "prompt": "Кто это и что вы ему скажете?",
+   "scenario": "БОЛЬШАЯ ДРАКА у бассейна! {{PLAYER}} никак не может успокоится!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Как вы напугаете его?",
+   "countrySpecific": false,
+   "id": "88361",
+   "isValid": "",
+   "prompt": "Кто станет жертвой розыгрыша и как вы напугаете его?",
+   "scenario": "Время спиритических сеансов! Вы приготовили розыгрыш и рассчитываете, что {{PLAYER}} испугается и убежит.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Вы даёте совет одному из игроков и этот игрок меняет свой \"образ\". Что за совет вы дали?",
+   "countrySpecific": false,
+   "id": "88362",
+   "isValid": "",
+   "prompt": "{{PLAYER}} меняет свой \"образ\" по вашему совету. Какой совет вы дали?",
+   "scenario": "Наступила карнавальная ночь.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок делает?",
+   "countrySpecific": false,
+   "id": "88477",
+   "isValid": "",
+   "prompt": "Кто это и что он делает?",
+   "scenario": "{{PLAYER}} портит обед.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Какую догадку постоянно высказывает этот игрок?",
+   "countrySpecific": false,
+   "id": "88478",
+   "isValid": "",
+   "prompt": "Кто это и что это за догадка?",
+   "scenario": "{{PLAYER}} в шарадах говорит [i]одну и ту же[/i] догадку каждый раунд.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Почему этот игрок так поступает?",
+   "countrySpecific": false,
+   "id": "88484",
+   "isValid": "",
+   "prompt": "Кто это и почему он так поступает?",
+   "scenario": "За день до сбора урожая {{PLAYER}} топчет овощи в огороде!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок делает?",
+   "countrySpecific": false,
+   "id": "88489",
+   "isValid": "",
+   "prompt": "Кто это и что он делает?",
+   "scenario": "Во время поездки на отдых {{PLAYER}} ведёт себя неприемлемо.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что вы скажете этому игроку?",
+   "countrySpecific": false,
+   "id": "88490",
+   "isValid": "",
+   "prompt": "Кто это и что вы ему скажете?",
+   "scenario": "Вам не нравится, как {{PLAYER}} ведёт себя в библиотеке.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Как попугай пародирует этого игрока?",
+   "countrySpecific": false,
+   "id": "88596",
+   "isValid": "",
+   "prompt": "Кого он пародирует и каким образом?",
+   "scenario": "Ничего себе! Благодаря вам, домашний попугай научился вести себя, как {{PLAYER}}!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Почему этот игрок должен покинуть джакузи?",
+   "countrySpecific": false,
+   "id": "88682",
+   "isValid": "",
+   "prompt": "{{PLAYER}} должен уйти, но почему?",
+   "scenario": "Простите, но в джакузи осталось только одно место.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что у этого игрока на аватарке?",
+   "countrySpecific": false,
+   "id": "88734",
+   "isValid": "",
+   "prompt": "Кто это и что у него на аватарке?",
+   "scenario": "{{PLAYER}} и вы встретились в приложении для знакомств!",
+   "x": true
+  },
+  {
+   "controllerPrompt": "Как вы попытаетесь испортить это видео?",
+   "countrySpecific": false,
+   "id": "88747",
+   "isValid": "",
+   "prompt": "Кто это и как вы попытаетесь испортить это видео?",
+   "scenario": "{{PLAYER}} приглашает всех сняться в совместном TikTok челлендже... кроме вас.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Как вы поняли, что этот игрок не разбирается в йоге?",
+   "countrySpecific": false,
+   "id": "89013",
+   "isValid": "",
+   "prompt": "Кто это и как вам удалось это понять?",
+   "scenario": "Очевидно, что {{PLAYER}} ничего не понимает в йоге.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что вы положите этому игроку под кровать?",
+   "countrySpecific": false,
+   "id": "89015",
+   "isValid": "",
+   "prompt": "Кто ваша жертва и что вы положите бедняге под кровать?",
+   "scenario": "Время розыгрышей. Ваша цель - {{PLAYER}}.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Как выглядит эта обувь?",
+   "countrySpecific": false,
+   "id": "89046",
+   "isValid": "",
+   "prompt": "Кто он и как выглядит эта обувь?",
+   "scenario": "{{PLAYER}} дарит вам обувь.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Какое событие планирует этот игрок?",
+   "countrySpecific": false,
+   "id": "89047",
+   "isValid": "",
+   "prompt": "Кто это и что это за событие?",
+   "scenario": "Событие, которое планирует провести {{PLAYER}} такое [i]скууууучное[/i].",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что это за журнал?",
+   "countrySpecific": false,
+   "id": "89150",
+   "isValid": "",
+   "prompt": "Кто это и как называется этот журнал?",
+   "scenario": "Вы нашли журнал, на обложке которого красуется {{PLAYER}}.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Как так вышло, что из-за этого игрока Бобиранг пропал?",
+   "countrySpecific": false,
+   "id": "89509",
+   "isValid": "",
+   "prompt": "Кто виноват и почему это произошло?",
+   "scenario": "Домашний щенок по кличке Бобиранг пропал. Кажется, за этим стоит {{PLAYER}}.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что пошло не так?",
+   "countrySpecific": false,
+   "id": "89972",
+   "isValid": "",
+   "prompt": "Кто организатор мастер-класса и что пошло не так?",
+   "scenario": "На мастер-классе по макияжу, который проводит {{PLAYER}}, случилась катастрофа.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что случилось с рестораном?",
+   "countrySpecific": false,
+   "id": "90090",
+   "isValid": "",
+   "prompt": "Кто его испортил и как?",
+   "scenario": "В ресторане, построенном квартирантами, случилась катастрофа.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Какой сериал предлагает посмотреть этот игрок?",
+   "countrySpecific": false,
+   "id": "90093",
+   "isValid": "",
+   "prompt": "Кто это и какой сериал он предлагает посмотреть?",
+   "scenario": "{{PLAYER}} предлагает посмотреть эпизод из сериала, который все остальные терпеть не могут.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Почему?",
+   "countrySpecific": false,
+   "id": "90102",
+   "isValid": "",
+   "prompt": "Кто это и почему?",
+   "scenario": "Пришло время признать, что {{PLAYER}} теряет ваше доверие.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что это за привычка?",
+   "countrySpecific": false,
+   "id": "90105",
+   "isValid": "",
+   "prompt": "Кто это и что это за привычка?",
+   "scenario": "{{PLAYER}} обзаводится привычкой, которая начинает вас раздражать.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что смотрит этот игрок?",
+   "countrySpecific": false,
+   "id": "90111",
+   "isValid": "",
+   "prompt": "Кто это и что он постоянно смотрит?",
+   "scenario": "Вам надоело, что {{PLAYER}} всегда хочет смотреть по телевизору одно и то же.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Каким должно быть наказание?",
+   "countrySpecific": false,
+   "id": "90156",
+   "isValid": "",
+   "prompt": "Кто это и каким должно быть наказание?",
+   "scenario": "{{PLAYER}} нарушает правило дома и ожидает наказания.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Как этот игрок планирует развлекать вас?",
+   "countrySpecific": false,
+   "id": "90248",
+   "isValid": "",
+   "prompt": "Кто это и как он планирует развлекать вас?",
+   "scenario": "{{PLAYER}} планирует пригласить всех на шашлыки.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Какое впечатление этот игрок производит?",
+   "countrySpecific": false,
+   "id": "90357",
+   "isValid": "",
+   "prompt": "Кто это и какое впечатление он производит?",
+   "scenario": "{{PLAYER}} не перестаёт изображать из себя знаменитость.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Чем этот игрок не хочет делиться?",
+   "countrySpecific": false,
+   "id": "90364",
+   "isValid": "",
+   "prompt": "Кто это и чем он не хочет делиться?",
+   "scenario": "{{PLAYER}} что-то прячет в доме.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок делает?",
+   "countrySpecific": false,
+   "id": "90367",
+   "isValid": "",
+   "prompt": "Кто это и что он делает?",
+   "scenario": "{{PLAYER}} не даёт вам спать.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок пишет?",
+   "countrySpecific": false,
+   "id": "90378",
+   "isValid": "",
+   "prompt": "Кто это и что он пишет?",
+   "scenario": "{{PLAYER}} расписывает стену дома граффити!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок положил в капсулу времени?",
+   "countrySpecific": false,
+   "id": "90379",
+   "isValid": "",
+   "prompt": "Кто это и что он в неё положил?",
+   "scenario": "{{PLAYER}} закапывает капсулу времени.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Почему этот игрок сбегает куда-то ночью?",
+   "countrySpecific": false,
+   "id": "90380",
+   "isValid": "",
+   "prompt": "Кто это и почему он сбегает ночью?",
+   "scenario": "{{PLAYER}} сбегает из дома посреди ночи.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок добавляет в бассейн?",
+   "countrySpecific": false,
+   "id": "90406",
+   "isValid": "",
+   "prompt": "Кто это и что он добавляет?",
+   "scenario": "Вы увидели, как {{PLAYER}} добавляет что-то подозрительное в бассейн!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Почему этот игрок так поступил?",
+   "countrySpecific": false,
+   "id": "90500",
+   "isValid": "",
+   "prompt": "Кто это и почему он так поступил?",
+   "scenario": "{{PLAYER}} подставляет вам подножку во время соревнования по бегу.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "О чём эта статья?",
+   "countrySpecific": false,
+   "id": "90501",
+   "isValid": "",
+   "prompt": "Кто это и о чём статья?",
+   "scenario": "Вы пишете статью для новостного сайта, в которой фигурирует {{PLAYER}}.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок пытается украсть?",
+   "countrySpecific": false,
+   "id": "90502",
+   "isValid": "",
+   "prompt": "Кто это и что он пытается украсть?",
+   "scenario": "{{PLAYER}} взламывает ваш шкафчик.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок говорит?",
+   "countrySpecific": false,
+   "id": "90659",
+   "isValid": "",
+   "prompt": "Кто это и что он говорит?",
+   "scenario": "{{PLAYER}} говорит что-то себе под нос каждый раз, когда проходит мимо вас.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что расстроило этого игрока?",
+   "countrySpecific": false,
+   "id": "90784",
+   "isValid": "",
+   "prompt": "Кто это и что его расстроило?",
+   "scenario": "{{PLAYER}} закатывает истерику и выбегает из дома.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок создаёт?",
+   "countrySpecific": false,
+   "id": "90837",
+   "isValid": "",
+   "prompt": "Кто это и что он создаёт?",
+   "scenario": "{{PLAYER}} создаёт что-то опасное в домашней научной лаборатории.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок пытается пронести?",
+   "countrySpecific": false,
+   "id": "90838",
+   "isValid": "",
+   "prompt": "Кто это и что он пытается пронести?",
+   "scenario": "Наступила Космонеделя. {{PLAYER}} пытается пронести на борт кое-что запрещённое.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что одето на этом игроке?",
+   "countrySpecific": false,
+   "id": "90949",
+   "isValid": "",
+   "prompt": "Кто это и что на нём одето?",
+   "scenario": "{{PLAYER}} приходит на конкурс косплея в слишком откровенном образе.",
+   "x": true
+  },
+  {
+   "controllerPrompt": "О чём говорится в записке?",
+   "countrySpecific": false,
+   "id": "90951",
+   "isValid": "",
+   "prompt": "Кто это и о чём говорится в записке?",
+   "scenario": "{{PLAYER}} пишет записку, чтобы передать её своей маме.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Для чего этот игрок здесь на самом деле?",
+   "countrySpecific": false,
+   "id": "91236",
+   "isValid": "",
+   "prompt": "Кто это и для чего он здесь на самом деле?",
+   "scenario": "Вы узнали, что {{PLAYER}} не стремится победить в Квартиранге!",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок на самом деле делает на этом конкурсе?",
+   "countrySpecific": false,
+   "id": "91237",
+   "isValid": "",
+   "prompt": "Кто это и что он на самом деле делает на этом конкурсе?",
+   "scenario": "{{PLAYER}} участвуя в конкурсе пекарей, только делает вид, что занимается выпечкой.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Почему он так относится к конкурсу?",
+   "countrySpecific": false,
+   "id": "91238",
+   "isValid": "",
+   "prompt": "Кто это и почему он так относится к конкурсу?",
+   "scenario": "{{PLAYER}} недостаточно серьёзно относится к конкурсу гончарных изделий.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Чем этот игрок угрожает всем?",
+   "countrySpecific": false,
+   "id": "91240",
+   "isValid": "",
+   "prompt": "Кто это и чем он угрожает?",
+   "scenario": "{{PLAYER}} угрожает остальным и выдвигает свои требования.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "О чём этот игрок не может перестать говорить?",
+   "countrySpecific": false,
+   "id": "91241",
+   "isValid": "",
+   "prompt": "Кто это и о чём он не может перестать говорить?",
+   "scenario": "(Зевок). {{PLAYER}} всё время говорит на одну и ту же тему.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Чем наполнен резервуар?",
+   "countrySpecific": false,
+   "id": "91244",
+   "isValid": "",
+   "prompt": "Кто это и чем наполнен резервуар?",
+   "scenario": "{{PLAYER}} встречается лицом к лицу со своими страхами, попав в какой-то резервуар.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок делает?",
+   "countrySpecific": false,
+   "id": "91245",
+   "isValid": "",
+   "prompt": "Кто это и что он делает?",
+   "scenario": "{{PLAYER}} заходит слишком далеко.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок пишет?",
+   "countrySpecific": false,
+   "id": "91246",
+   "isValid": "",
+   "prompt": "Кто это и что он пишет?",
+   "scenario": "{{PLAYER}} пишет нечто НЕВЕРОЯТНОЕ на доске.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок ворует?",
+   "countrySpecific": false,
+   "id": "92027",
+   "isValid": "",
+   "prompt": "Кто это и что он ворует?",
+   "scenario": "{{PLAYER}} ворует вещи.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок делает?",
+   "countrySpecific": false,
+   "id": "92028",
+   "isValid": "",
+   "prompt": "Кто это и что он делает?",
+   "scenario": "{{PLAYER}} пытается завируситься в сети, делая что-то вот уже 100 часов.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок сделал?",
+   "countrySpecific": false,
+   "id": "93231",
+   "isValid": "",
+   "prompt": "Кто это и [i]что[/i] он сделал?",
+   "scenario": "{{PLAYER}} приводит команду к поражению в перетягивании каната.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что произошло?",
+   "countrySpecific": false,
+   "id": "93233",
+   "isValid": "",
+   "prompt": "Кто это и что произошло?",
+   "scenario": "{{PLAYER}} зашёл слишком далеко играя в казаки-разбойники.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Что этот игрок кладёт в неё?",
+   "countrySpecific": false,
+   "id": "93315",
+   "isValid": "",
+   "prompt": "Кто это и что он кладёт в неё?",
+   "scenario": "{{PLAYER}} постоянно ломает стиральную машину.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Чем этот игрок доказывает свой талант?",
+   "countrySpecific": false,
+   "id": "93316",
+   "isValid": "",
+   "prompt": "Кто это и чем он доказывает свой талант?",
+   "scenario": "{{PLAYER}} убеждает всех, что обладает экстрасенсорными способностями.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Почему этот игрок так думает?",
+   "countrySpecific": false,
+   "id": "93317",
+   "isValid": "",
+   "prompt": "Кто это и почему он так думает?",
+   "scenario": "{{PLAYER}} говорит, что в доме есть призраки.",
+   "x": false
+  },
+  {
+   "controllerPrompt": "Как вы называете этого игрока?",
+   "countrySpecific": false,
+   "id": "93319",
+   "isValid": "",
+   "prompt": "Кто это и как вы его называете?",
+   "scenario": "{{PLAYER}} называет себя \"Владельцем Дома\", однако, вы называете этого игрока по-другому.",
+   "x": false
+  }
+ ]
+}

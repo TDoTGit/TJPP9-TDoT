@@ -1,0 +1,26 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasSponsorAudio"
+  },
+  {
+   "t": "A",
+   "v": "sponsor",
+   "n": "SponsorAudio",
+   "s": "ПОДНОС-ПОДБРОС"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaglineAudio"
+  },
+  {
+   "t": "A",
+   "v": "tagline",
+   "n": "TaglineAudio",
+   "s": "А вам слабо подбросить свой поднос?"
+  }
+ ]
+}

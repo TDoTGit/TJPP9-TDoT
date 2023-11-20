@@ -1,0 +1,202 @@
+{
+    "content": [
+        {
+            "id": "0",
+            "name": "winnerImmunity",
+            "text": {
+                "description": "У тебя защита от Исключения",
+                "effect": "{{PLAYER}} под защитой."
+            },
+            "onImmunityEffects": {
+                "PlayerImmunity": {
+                    "targets": [
+                        "challengeWinner"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "1",
+            "name": "winnerElimination",
+            "isSoloChoice": true,
+            "text": {
+                "description": "Ты выбираешь игрока, которого исключат",
+                "effect": "Ждём, пока {{PLAYER}} кого-то исключит."
+            },
+            "onEliminationEffects": {
+                "ModifyEliminationVoters": {
+                    "voters": [
+                        "challengeWinner"
+                    ]
+                },
+                "ModifyPlayerVoteMultiplier": {
+                    "targets": [
+                        "challengeWinner"
+                    ],
+                    "multiplierValue": 2
+                }
+            }
+        },
+        {
+            "id": "2",
+            "name": "winnerProtectPlayer",
+            "text": {
+                "description": "Ты в безопасности и можешь спасти ещё кого-нибудь",
+                "choosing": "Ждём, пока {{PLAYER}} защитит кого-то.",
+                "effect": "{{PLAYER}} защищает игрока {{CHOSENPLAYER}}.",
+                "cancelled": "{{PLAYER}} решает никого не защищать."
+            },
+            "onImmunityEffects": {
+                "PlayerImmunity": {
+                    "targets": [
+                        "challengeWinner"
+                    ]
+                }
+            },
+            "onChoiceEffects": {
+                "ProtectPlayerChoice": {
+                    "choosers": [
+                        "challengeWinner"
+                    ],
+                    "choosingList": [
+                        "allPlayersNoWinner"
+                    ],
+                    "numChoices": 1
+                }
+            }
+        },
+        {
+            "id": "3",
+            "name": "winnerDoubleVoteCount",
+            "text": {
+                "description": "Твой голос на Исключении будет равняться двум",
+                "effect": "Голос {{PLAYER}} удвоен."
+            },
+            "onEliminationEffects": {
+                "ModifyPlayerVoteMultiplier": {
+                    "targets": [
+                        "challengeWinner"
+                    ],
+                    "multiplierValue": 2
+                }
+            }
+        },
+        {
+            "id": "4",
+            "name": "winnerSwapPoints",
+            "text": {
+                "description": "Ты меняешься баллами с другим игроком!",
+                "choosing": "Ждём, пока {{PLAYER}} поменяется с кем-то баллами.",
+                "effect": "{{PLAYER}} меняется баллами с {{CHOSENPLAYER}}.",
+                "cancelled": "{{PLAYER}} решает не меняться с кем-либо баллами."
+            },
+            "applicableRounds": [
+                "RoomerangQuickie",
+                "RoomerangFirestarter"
+            ],
+            "onChoiceEffects": {
+                "SwapPoints": {
+                    "choosers": [
+                        "challengeWinner"
+                    ],
+                    "choosingList": [
+                        "allPlayersNoWinner"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "5",
+            "name": "audienceChooseElimination",
+            "isSoloChoice": true,
+            "text": {
+                "description": "Ты защищён от Исключения. Зрители выбирают, кого исключить",
+                "effect": "Ждём, пока ЗРИТЕЛИ исключат кого-то."
+            },
+            "isAudienceAdvantage": true,
+            "onImmunityEffects": {
+                "PlayerImmunity": {
+                    "targets": [
+                        "challengeWinner"
+                    ]
+                }
+            },
+            "onEliminationEffects": {
+                "ModifyEliminationVoters": {
+                    "voters": [
+                        "audienceVote"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "6",
+            "name": "winnerAssignmentImmunity",
+            "text": {
+                "description": "Игрок, победивший в голосовании, И упомянутый им игрок защищены",
+                "effect": "{{PLAYER}} и {{MENTIONEDPLAYER}} защищены."
+            },
+            "applicableRounds": [
+                "RoomerangConnection",
+                "RoomerangFirestarter"
+            ],
+            "onImmunityEffects": {
+                "PlayerImmunity": {
+                    "targets": [
+                        "challengeWinner",
+                        "challengeWinnerAssignment"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "7",
+            "name": "winnerEliminatesVoter",
+            "isSoloChoice": true,
+            "text": {
+                "description": "Исключи игрока, который проголосовал за твой ответ",
+                "effect": "Ждём, пока {{PLAYER}} исключит кого-то, кто проголосовал за его ответ."
+            },
+            "onImmunityEffects": {
+                "PlayerImmunity": {
+                    "targets": [
+                        "allPlayersNoWinnerVoters"
+                    ]
+                }
+            },
+            "onEliminationEffects": {
+                "ModifyEliminationVoters": {
+                    "voters": [
+                        "challengeWinner"
+                    ]
+                },
+                "ModifyPlayerVoteMultiplier": {
+                    "targets": [
+                        "challengeWinner"
+                    ],
+                    "multiplierValue": 2
+                }
+            }
+        },
+        {
+            "id": "8",
+            "name": "winnerCancelsVote",
+            "text": {
+                "description": "Запрети другому игроку голосовать на Исключении",
+                "choosing": "Ждём, пока {{PLAYER}} отменит чей-то голос.",
+                "effect": "{{PLAYER}} запрещает игроку {{CHOSENPLAYER}} голосовать на Исключении.",
+                "cancelled": "{{PLAYER}} решает не отменять чей-либо голос на Исключении."
+            },
+            "onChoiceEffects": {
+                "CancelEliminationVote": {
+                    "choosers": [
+                        "challengeWinner"
+                    ],
+                    "choosingList": [
+                        "allPlayersNoWinner"
+                    ]
+                }
+            }
+        }
+    ]
+}

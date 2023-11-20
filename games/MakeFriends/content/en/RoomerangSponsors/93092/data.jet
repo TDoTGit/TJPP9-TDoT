@@ -1,0 +1,26 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasSponsorAudio"
+  },
+  {
+   "t": "A",
+   "v": "sponsor",
+   "n": "SponsorAudio",
+   "s": "КУРСЫ \"ГОРДОСТЬ РОДИТЕЛЕЙ\""
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaglineAudio"
+  },
+  {
+   "t": "A",
+   "v": "tagline",
+   "n": "TaglineAudio",
+   "s": "Помогаем сдать экзамены и устроиться на завод"
+  }
+ ]
+}

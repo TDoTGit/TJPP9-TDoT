@@ -1,0 +1,716 @@
+{
+ "content": [
+  {
+   "countrySpecific": false,
+   "id": "87700",
+   "isValid": "",
+   "prompt": "{{PLAYER}} заслуживает похвалу! Похвалите его.",
+   "scenario": "Вы всё лучше узнаёте друг друга и в доме воцарилась дружественная атмосфера.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87704",
+   "isValid": "",
+   "prompt": "О чём вы можете говорить друг с другом [i]ОЧЕНЬ ДОЛГО?[/i]",
+   "scenario": "Вы и {{PLAYER}} хорошо ладите.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87711",
+   "isValid": "",
+   "prompt": "{{PLAYER}} грустит! Скажите что-нибудь ободряющее.",
+   "scenario": "Наступило утро и все в доме чувствуют себя [i]вялыми[/i]!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87713",
+   "isValid": "",
+   "prompt": "Что это за приложение?",
+   "scenario": "Вы и {{PLAYER}} вместе разрабатываете какое-то приложение для смартфона!",
+   "x": true
+  },
+  {
+   "countrySpecific": false,
+   "id": "87716",
+   "isValid": "",
+   "prompt": "Опишите танцевальный стиль партнёра.",
+   "scenario": "Вы и {{PLAYER}} танцуете на домашней танцевальной вечеринке.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87718",
+   "isValid": "",
+   "prompt": "Выберите песню, которую споёт {{PLAYER}}.",
+   "scenario": "Время караоке! ",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87720",
+   "isValid": "",
+   "prompt": "Какая черта этого игрока вам нравится больше всего?",
+   "scenario": "{{PLAYER}}.вызывает у вас восхищение.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87724",
+   "isValid": "",
+   "prompt": "Что вы приготовите?",
+   "scenario": "Вы и {{PLAYER}} объединяете усилия, чтобы приготовить фирменное блюдо.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87787",
+   "isValid": "",
+   "prompt": "Что такого невероятного сделает {{PLAYER}} в этой игре?",
+   "scenario": "Время предсказаний...",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87856",
+   "isValid": "",
+   "prompt": "Какое препятствие будет самым сложным?",
+   "scenario": "Вы и {{PLAYER}} участвуете в гонках с препятствиями в одной команде!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87857",
+   "isValid": "",
+   "prompt": "Как вы его назовёте?",
+   "scenario": "Вы и {{PLAYER}} решили объединиться в альянс.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87862",
+   "isValid": "",
+   "prompt": "Какое самое лучшее движение у вашего партнёра?",
+   "scenario": "Вы и {{PLAYER}} отлично танцуете вместе.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87863",
+   "isValid": "",
+   "prompt": "О чём же?",
+   "scenario": "Вы и {{PLAYER}} полностью сошлись во мнениях о чём-то необычном.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88078",
+   "isValid": "",
+   "prompt": "Какими дорожными развлечениями вы себя займёте?",
+   "scenario": "Вы и {{PLAYER}} сели рядом во время поездки на пляж!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88079",
+   "isValid": "",
+   "prompt": "Что же в первую очередь вы приготовите в ней?",
+   "scenario": "Поздравляем! Вы и {{PLAYER}} выиграли новейшую духовку!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88080",
+   "isValid": "",
+   "prompt": "Как вы с ним поступите?",
+   "scenario": "Ой-ёй! Вы и {{PLAYER}} нашли младенца у порога дома.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88212",
+   "isValid": "",
+   "prompt": "Что вы ему подарили?",
+   "scenario": "{{PLAYER}} получает от вас подарок!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88214",
+   "isValid": "",
+   "prompt": "Как вы тонко намекнёте этому игроку об этом?",
+   "scenario": "{{PLAYER}} не обращает внимание на своё грязное полотенце!",
+   "x": true
+  },
+  {
+   "countrySpecific": false,
+   "id": "88216",
+   "isValid": "",
+   "prompt": "Как вы назовёте свой стих, в котором фигурирует {{PLAYER}}?",
+   "scenario": "Сегодня намечается [i]Вечер Поэзии[/i].",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88217",
+   "isValid": "",
+   "prompt": "Придумайте отмазку, чтобы не покупать то, что вам предлагает {{PLAYER}}.",
+   "scenario": "Ого, похоже у всех квартирантов появились вещи для продажи!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88267",
+   "isValid": "",
+   "prompt": "Какой?",
+   "scenario": "Вы и {{PLAYER}} замутили домашний кинотеатр, чтобы посмотреть вместе фильм.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88268",
+   "isValid": "",
+   "prompt": "Что этот игрок делает на вашем любимом фото?",
+   "scenario": "{{PLAYER}} обнаруживает свой старый детский альбом.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88270",
+   "isValid": "",
+   "prompt": "Как будете развлекаться?",
+   "scenario": "РОЛЕВАЯ ИГРА. Вы и {{PLAYER}} устроили идеальное свидание!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88279",
+   "isValid": "",
+   "prompt": "Как вы будете намекать об этом? ",
+   "scenario": "{{PLAYER}} не знает о вашей безответной любви! ",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88298",
+   "isValid": "",
+   "prompt": "Какое идеальное комбо получится, если вы и {{PLAYER}} совместите свои имена?",
+   "scenario": "Чтобы придумать имена для своих будущих детей, парочки иногда совмещают свои имена.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88309",
+   "isValid": "",
+   "prompt": "О чём вы болтаете?",
+   "scenario": "Все спят и у ночного костра остались лишь вы и {{PLAYER}}.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88310",
+   "isValid": "",
+   "prompt": "Как вы планируете провести день?",
+   "scenario": "Вы и {{PLAYER}} хотите отпраздновать вместе [i]День Независимости[/i].",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88311",
+   "isValid": "",
+   "prompt": "Какой организации вы поможете?",
+   "scenario": "Вы и {{PLAYER}} можете посвятить этот раунд помощи организации, о которой никто никогда не слышал.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89107",
+   "isValid": "",
+   "prompt": "Что будет изображено на них?",
+   "scenario": "Вы и {{PLAYER}} решили сделать парные татуировки!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89109",
+   "isValid": "",
+   "prompt": "Какие плюсы проживания в палатке, в которой будете только вы и {{PLAYER}}?",
+   "scenario": "Пора в поход!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89111",
+   "isValid": "",
+   "prompt": "На что вы потратите деньги?",
+   "scenario": "Вы и {{PLAYER}} нашли 100$ в постирочной!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89112",
+   "isValid": "",
+   "prompt": "Вы и {{PLAYER}} создали \"костюм-на-двоих\". Как он выглядит?",
+   "scenario": "Пора на маскарад!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89114",
+   "isValid": "",
+   "prompt": "...но за что?",
+   "scenario": "Вы и {{PLAYER}} чувствуете вину...",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89115",
+   "isValid": "",
+   "prompt": "Что в этом игроке вас так привлекло?",
+   "scenario": "{{PLAYER}} очень нравится вам!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89116",
+   "isValid": "",
+   "prompt": "Как вы поддержите этого игрока во время поднятия гири?",
+   "scenario": "Вы замечаете, что {{PLAYER}} часто посещает качалку.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89117",
+   "isValid": "",
+   "prompt": "Что же это?",
+   "scenario": "Вы и {{PLAYER}} осознали, что у вас есть что-то общее!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89407",
+   "isValid": "",
+   "prompt": "Что же этот игрок скрывает?",
+   "scenario": "{{PLAYER}} признаётся в сокрытии информации о себе.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89452",
+   "isValid": "",
+   "prompt": "Почему?",
+   "scenario": "ОГО. {{PLAYER}} начинает вести себя прямо как вы.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89454",
+   "isValid": "",
+   "prompt": "Как вы утешите этого игрока?",
+   "scenario": "{{PLAYER}} тоскует по дому.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89502",
+   "isValid": "",
+   "prompt": "Как вы назовёте ваш фильм?",
+   "scenario": "Вы и {{PLAYER}} решаете снять фильм обо всём происходящем в доме!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89510",
+   "isValid": "",
+   "prompt": "Что странного в том, как спит этот игрок?",
+   "scenario": "Вы и {{PLAYER}} спите на двухъярусной кровати.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89723",
+   "isValid": "",
+   "prompt": "Что было дальше?",
+   "scenario": "Вы падаете, а {{PLAYER}} вас ловит.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90014",
+   "isValid": "",
+   "prompt": "Где и когда?",
+   "scenario": "Кажется, вы и {{PLAYER}} раньше пересекались.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90015",
+   "isValid": "",
+   "prompt": "Что нужно сказать, чтобы этот игрок согласился?",
+   "scenario": "{{PLAYER}} никак не решается пойти в боулинг с вами.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90017",
+   "isValid": "",
+   "prompt": "Воодушевите этого игрока, сделав комплимент.",
+   "scenario": "{{PLAYER}} немного переживает за свою фотосессию.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90030",
+   "isValid": "",
+   "prompt": "Что вы скажете?",
+   "scenario": "Вы и {{PLAYER}} придумали анекдот, окончание которого вы скажете вместе!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90068",
+   "isValid": "",
+   "prompt": "Что вы расскажете?",
+   "scenario": "{{PLAYER}} не может уснуть и просит рассказать историю на ночь.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90076",
+   "isValid": "",
+   "prompt": "Каким?",
+   "scenario": "{{PLAYER}} делится своим сильнейшим страхом.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90077",
+   "isValid": "",
+   "prompt": "В какой отдел вас хочет завести этот игрок?",
+   "scenario": "Вы и {{PLAYER}} вместе идёте в торговый центр.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90079",
+   "isValid": "",
+   "prompt": "Что вы сделаете?",
+   "scenario": "Вы и {{PLAYER}} решили сотворить что-то безумное с домом.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90081",
+   "isValid": "",
+   "prompt": "Какой?",
+   "scenario": "Вы замечаете, что {{PLAYER}} обладает интересной особенностью.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90087",
+   "isValid": "",
+   "prompt": "Как вы его назовёте?",
+   "scenario": "Вы и {{PLAYER}} открываете ресторан.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90091",
+   "isValid": "",
+   "prompt": "Куда вы отправитесь?",
+   "scenario": "Вы и {{PLAYER}} планируете вместе съездить в отпуск.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90092",
+   "isValid": "",
+   "prompt": "Какой предмет интерьера вас удивил больше всего?",
+   "scenario": "Вы видите, как {{PLAYER}} украшает свою комнату.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90099",
+   "isValid": "",
+   "prompt": "Чем в последний раз вы поделились?",
+   "scenario": "Вы и {{PLAYER}} сдружились и делитесь друг с другом [i]всем[/i].",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90100",
+   "isValid": "",
+   "prompt": "Что этот игрок сделал?",
+   "scenario": "Вы ещё не привыкли друг к другу, а {{PLAYER}} уже успел вас обидеть!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90101",
+   "isValid": "",
+   "prompt": "Чем же?",
+   "scenario": "{{PLAYER}} в плохом настроении, но [i]вы[/i] знаете, чем его можно обрадовать.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90108",
+   "isValid": "",
+   "prompt": "Какую роль вы дадите этому игроку?",
+   "scenario": "День Средневековья! {{PLAYER}} просит вас выбрать ему роль.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90121",
+   "isValid": "",
+   "prompt": "С чего вы начнёте?",
+   "scenario": "Вы и {{PLAYER}} объединились, чтобы раскрыть тайны этого дома.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90123",
+   "isValid": "",
+   "prompt": "Какой?",
+   "scenario": "Вы и {{PLAYER}} решили открыть совместный бизнес после шоу.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90128",
+   "isValid": "",
+   "prompt": "Каким же?",
+   "scenario": "Вы и {{PLAYER}} приветствуете друг друга наимилейшим образом.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90130",
+   "isValid": "",
+   "prompt": "Как вы будете оправдываться?",
+   "scenario": "Вы и {{PLAYER}} пропустили домашнее собрание.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90131",
+   "isValid": "",
+   "prompt": "Какой?",
+   "scenario": "Вы и {{PLAYER}} изображаете популярный дуэт!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90134",
+   "isValid": "",
+   "prompt": "Что это за секрет?",
+   "scenario": "Вы и {{PLAYER}} скрываете секрет, который не хотите рассказывать остальным.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90136",
+   "isValid": "",
+   "prompt": "Чем она пахнет?",
+   "scenario": "{{PLAYER}}.получает от вас аромасвечу, сделанную на мастер-классе.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90137",
+   "isValid": "",
+   "prompt": "Куда же вы поедете?",
+   "scenario": "Забавы ради, вы и {{PLAYER}} выбираете лучшее место, в котором проведёте медовый месяц!",
+   "x": true
+  },
+  {
+   "countrySpecific": false,
+   "id": "90268",
+   "isValid": "",
+   "prompt": "Чем?",
+   "scenario": "Вы и {{PLAYER}} увлекаетесь одним и тем же хобби.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90270",
+   "isValid": "",
+   "prompt": "Как вы собираетесь помириться с этим игроком?",
+   "scenario": "{{PLAYER}}.ждёт вас на свидании, а вы не пришли.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90271",
+   "isValid": "",
+   "prompt": "Что вы делали?",
+   "scenario": "Вы и {{PLAYER}} уничтожили входной коврик Квартиранга!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90374",
+   "isValid": "",
+   "prompt": "Что же вы подарите этому игроку?",
+   "scenario": "Вы и {{PLAYER}} планируете подарить друг другу подарок!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90415",
+   "isValid": "",
+   "prompt": "Как называется ваша команда?",
+   "scenario": "Надо же! Вы и {{PLAYER}} участвуете в шоу \"Импровизация\"!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90421",
+   "isValid": "",
+   "prompt": "Как вы назовёте ваше кино?",
+   "scenario": "Вы и {{PLAYER}} вместе пишете сценарий!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90429",
+   "isValid": "",
+   "prompt": "Что вы будете делать теперь?",
+   "scenario": "Вы и {{PLAYER}} поменялись телами.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90430",
+   "isValid": "",
+   "prompt": "На какие именно?",
+   "scenario": "Вы и {{PLAYER}} сходили на спа-процедуры.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90655",
+   "isValid": "",
+   "prompt": "От чего он защищает?",
+   "scenario": "{{PLAYER}} дарит тебе оберег.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90658",
+   "isValid": "",
+   "prompt": "Что это за недостаток?",
+   "scenario": "Вы считаете, что {{PLAYER}} обладает одним очень ужасным недостатком.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90666",
+   "isValid": "",
+   "prompt": "Что же это?",
+   "scenario": "Вы знаете, что {{PLAYER}} хранит одну очень важную вещь.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90674",
+   "isValid": "",
+   "prompt": "Как вы это делаете?",
+   "scenario": "Вы и {{PLAYER}} так искусно \"даёте пять\", что все вам завидуют!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90676",
+   "isValid": "",
+   "prompt": "Что на нём изображено?",
+   "scenario": "Вы и {{PLAYER}} покорили гору Квартиранг и поставили на вершине свой флаг!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90831",
+   "isValid": "",
+   "prompt": "Какая же у неё тематика?",
+   "scenario": "{{PLAYER}} готовит для вас вечеринку-сюрприз!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90946",
+   "isValid": "",
+   "prompt": "Как она называется?",
+   "scenario": "Вы и {{PLAYER}} слушаете одну и ту же музыкальную группу!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90948",
+   "isValid": "",
+   "prompt": "Где вы спрятались?",
+   "scenario": "Во время игры в прятки, вы и {{PLAYER}} спрятались вместе!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91223",
+   "isValid": "",
+   "prompt": "Как выглядит этот сигнал?",
+   "scenario": "Вы и {{PLAYER}} придумали сигнал, означающий \"давай сменим тему\".",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91224",
+   "isValid": "",
+   "prompt": "Какой?",
+   "scenario": "{{PLAYER}} каждое утро проводит [i]странный[/i] ритуал.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91226",
+   "isValid": "",
+   "prompt": "Как вы его победите?",
+   "scenario": "Вызов дикой природе! Вы и {{PLAYER}} должны сразиться с гризли.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91227",
+   "isValid": "",
+   "prompt": "Что вы сделаете?",
+   "scenario": "Вы и {{PLAYER}} отстаёте в гонке на сигвеях. Пора принять экстренные меры.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91229",
+   "isValid": "",
+   "prompt": "Какой же?",
+   "scenario": "{{PLAYER}} делится историей из своего тёмного прошлого.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91778",
+   "isValid": "",
+   "prompt": "Как этот игрок уговорил вас помогать ему?",
+   "scenario": "{{PLAYER}} хочет стать самым главным в доме и просит вас о помощи.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93460",
+   "isValid": "",
+   "prompt": "Кто это?",
+   "scenario": "Оказалось, что вы и {{PLAYER}} имеете общего врага.",
+   "x": false
+  }
+ ]
+}

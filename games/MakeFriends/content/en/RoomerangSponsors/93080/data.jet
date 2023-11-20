@@ -1,0 +1,26 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasSponsorAudio"
+  },
+  {
+   "t": "A",
+   "v": "sponsor",
+   "n": "SponsorAudio",
+   "s": "У ШЛЁПОК"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaglineAudio"
+  },
+  {
+   "t": "A",
+   "v": "tagline",
+   "n": "TaglineAudio",
+   "s": "Если вам нужны шлёпки, то ищите их \"У Шлёпки\""
+  }
+ ]
+}

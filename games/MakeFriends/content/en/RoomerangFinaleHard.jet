@@ -1,0 +1,697 @@
+{
+ "content": [
+  {
+   "countrySpecific": false,
+   "id": "87830",
+   "isValid": "",
+   "prompt": "Как вы с собой уживаетесь?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87831",
+   "isValid": "",
+   "prompt": "Как бы вы описали свои сегодняшние поступки?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87832",
+   "isValid": "",
+   "prompt": "После всего того, что вы сделали... как вам спиться?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87834",
+   "isValid": "",
+   "prompt": "Что или кто делает вас лучше всех?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87835",
+   "isValid": "",
+   "prompt": "Что теперь соседи, на ваш взгляд, думают о вас?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87843",
+   "isValid": "",
+   "prompt": "В чем ваш секрет?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87844",
+   "isValid": "",
+   "prompt": "Почему вы заслуживаете быть здесь?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87847",
+   "isValid": "",
+   "prompt": "Насколько далеко вы готовы зайти ради победы?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87848",
+   "isValid": "",
+   "prompt": "Почему вы ни разу не осуществляли зрительный контакт с кем-либо?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87851",
+   "isValid": "",
+   "prompt": "Что нового вы узнали о себе в сегодняшей игре?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87852",
+   "isValid": "",
+   "prompt": "Чтобы вы сделали по-другому в сегодняшней игре?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87879",
+   "isValid": "",
+   "prompt": "О чём вы сожалеете?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88195",
+   "isValid": "",
+   "prompt": "Какого стиля игры вы придерживались сегодня?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88324",
+   "isValid": "",
+   "prompt": "В чём ваша [i]проблема[/i]?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88325",
+   "isValid": "",
+   "prompt": "Какой момент в сегодняшней игре - самый лучший?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88386",
+   "isValid": "",
+   "prompt": "Какую ошибку вы совершили сегодня?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88391",
+   "isValid": "",
+   "prompt": "После такого опыта, что вы будете думать о своих товарищах?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88491",
+   "isValid": "",
+   "prompt": "Что для вас значит “честность”?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88494",
+   "isValid": "",
+   "prompt": "Что заставило вас поступить так, как вы поступили сегодня?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88579",
+   "isValid": "",
+   "prompt": "Если бы вы встретили бога... что бы вы сказали?",
+   "x": true
+  },
+  {
+   "countrySpecific": false,
+   "id": "88580",
+   "isValid": "",
+   "prompt": "Как вы объясните свои действия в Квартиранге своим внукам?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88602",
+   "isValid": "",
+   "prompt": "Что вы думаете о специальном выпуске, посвящённом воссоединению?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88603",
+   "isValid": "",
+   "prompt": "Вы заслуживаете победу по одной причине. По какой?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88604",
+   "isValid": "",
+   "prompt": "Как о вас отзываются люди, знающие вас?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88796",
+   "isValid": "",
+   "prompt": "Почему вы заслуживаете победы?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88798",
+   "isValid": "",
+   "prompt": "Все описывают вас одним словом. Что это за слово?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88801",
+   "isValid": "",
+   "prompt": "Какие-нибудь прощальные слова зрителям?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88803",
+   "isValid": "",
+   "prompt": "После всего что произошло... куда вы отправитесь?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88805",
+   "isValid": "",
+   "prompt": "Что вы скажете тем, кто сомневался в вас?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90016",
+   "isValid": "",
+   "prompt": "Что вы скажете своему второму \"Я\" сегодня?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90019",
+   "isValid": "",
+   "prompt": "Что делает вас живым?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90020",
+   "isValid": "",
+   "prompt": "Чему вы научились?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90022",
+   "isValid": "",
+   "prompt": "Какими тремя словами можно описать ваше пребывание в игре?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90023",
+   "isValid": "",
+   "prompt": "Какой совет вы бы дали юному себе?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90024",
+   "isValid": "",
+   "prompt": "Что, по вашему мнению, является ключом к успеху?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90025",
+   "isValid": "",
+   "prompt": "Ради чего стоит жить?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90026",
+   "isValid": "",
+   "prompt": "После всего, что было. Какое качество вы будете искать в товарищах?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90027",
+   "isValid": "",
+   "prompt": "В чём сейчас нуждается мир?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90028",
+   "isValid": "",
+   "prompt": "Что руководило вами в самые трудные моменты?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90029",
+   "isValid": "",
+   "prompt": "Каков ваш совет по преодолению личных трудностей?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90031",
+   "isValid": "",
+   "prompt": "Дом горит. Какую вещь вы спасёте в первую очередь?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90032",
+   "isValid": "",
+   "prompt": "Кем не стоит быть по жизни?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90033",
+   "isValid": "",
+   "prompt": "Кому в первую очередь вы позвоните в случае победы?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90035",
+   "isValid": "",
+   "prompt": "Как вам удаётся делать это так легко?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90036",
+   "isValid": "",
+   "prompt": "В чём заключалась ваша секретная стратегия?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90037",
+   "isValid": "",
+   "prompt": "Чего вам будет больше всего не хватать после прибытия в доме Квартиранга?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90038",
+   "isValid": "",
+   "prompt": "Как стоит отпраздновать в случае вашей победы?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90039",
+   "isValid": "",
+   "prompt": "Кто бы сыграл вас в [i]Квартиранг: Кино[/i]?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90040",
+   "isValid": "",
+   "prompt": "Что заставляет вас всегда улыбаться?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90042",
+   "isValid": "",
+   "prompt": "К кому вы обращаетесь за вдохновением?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90043",
+   "isValid": "",
+   "prompt": "Что эта игра изменила в вас?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90044",
+   "isValid": "",
+   "prompt": "Какой совет вы бы дали новым участникам?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90045",
+   "isValid": "",
+   "prompt": "Какой цитатой вы руководствуетесь в своей жизни?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90046",
+   "isValid": "",
+   "prompt": "Какими воспоминаниями из Квартиранга вы поделитесь со своими детьми?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90047",
+   "isValid": "",
+   "prompt": "Какое послание у вас есть для всех ваших ненавистников?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90049",
+   "isValid": "",
+   "prompt": "Как вы будете называть своих фанатов?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90051",
+   "isValid": "",
+   "prompt": "Чего вам не хватало в доме Квартиранга?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90052",
+   "isValid": "",
+   "prompt": "Какую цель помимо победы вы приследуете в этой игре?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90053",
+   "isValid": "",
+   "prompt": "Что вас ждёт в будущем?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90054",
+   "isValid": "",
+   "prompt": "Что вы говорите каждый раз перед сном?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90055",
+   "isValid": "",
+   "prompt": "Какие пару слов могут описать ваш личный стиль?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90056",
+   "isValid": "",
+   "prompt": "Что вы сделаете после игры, в первую очередь?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90057",
+   "isValid": "",
+   "prompt": "Как победа изменит вас?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90058",
+   "isValid": "",
+   "prompt": "Как вам удаётся держаться на плаву?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90061",
+   "isValid": "",
+   "prompt": "Как вам удаётся быть таким... \"особенным\"?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90062",
+   "isValid": "",
+   "prompt": "Какое личное качество больше всего помогло вам в игре?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90063",
+   "isValid": "",
+   "prompt": "В каком шоу мы увидим вас в следующий раз?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90064",
+   "isValid": "",
+   "prompt": "Как стать незабываемым?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90382",
+   "isValid": "",
+   "prompt": "Как ваши друзья помогли вам сегодня?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90383",
+   "isValid": "",
+   "prompt": "Если вы выиграете сегодня, что следует сделать в первую очередь?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90384",
+   "isValid": "",
+   "prompt": "Кем вы видите себя через пять лет?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90504",
+   "isValid": "",
+   "prompt": "Расскажите о тактике, которую вы использовали, чтобы дойти до конца.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90593",
+   "isValid": "",
+   "prompt": "Чему вы научились у своих соседей?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90619",
+   "isValid": "",
+   "prompt": "Если бы вы могли убрать из дома одну вещь... что это было бы?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90683",
+   "isValid": "",
+   "prompt": "Сегодняшняя игра вас разочаровала?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90684",
+   "isValid": "",
+   "prompt": "Каким человеком вы хотите запомниться вашим соседям?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90685",
+   "isValid": "",
+   "prompt": "Поделитесь, чему вы научились сегодня в Квартиранге.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90785",
+   "isValid": "",
+   "prompt": "Как вы себя чувствуете?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90841",
+   "isValid": "",
+   "prompt": "Что мешает вам полностью раскрыть свой потенциал?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90843",
+   "isValid": "",
+   "prompt": "Что было бы выгравировано на мемориальной скамейке Квартиранга в вашу честь?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90892",
+   "isValid": "",
+   "prompt": "Дайте позитивное послание для всех детей мира.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90893",
+   "isValid": "",
+   "prompt": "Это ваши последние минуты на телевидении. Что вы скажете?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90961",
+   "isValid": "",
+   "prompt": "Вы довольны собой?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90962",
+   "isValid": "",
+   "prompt": "Какой поступок совершённый здесь, будет преследовать вас далее по жизни?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90963",
+   "isValid": "",
+   "prompt": "Что из [i]Квартиранга[/i] останется с вами навсегда?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91230",
+   "isValid": "",
+   "prompt": "Каким был бы самый приятный финал для этой игры?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91231",
+   "isValid": "",
+   "prompt": "Кого бы вы позвали из игроков [i]Квартиранга[/i] на выставку в вашу честь?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91232",
+   "isValid": "",
+   "prompt": "Что вы скажете Победителю?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91233",
+   "isValid": "",
+   "prompt": "Что вам даст победа в [i]Квартиранге[/i]?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91234",
+   "isValid": "",
+   "prompt": "Если бы вы не играли в [i]Квартиранг[/i]... где бы вы сейчас были?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93469",
+   "isValid": "",
+   "prompt": "Расскажите факт о себе не на камеру.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93470",
+   "isValid": "",
+   "prompt": "Что о вас не так поняли СМИ?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93471",
+   "isValid": "",
+   "prompt": "Если бы вы могли переиграть... то, что бы вы поменяли?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93473",
+   "isValid": "",
+   "prompt": "Что может быть прекраснее победы в [i]Квартиранге[/i]?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93474",
+   "isValid": "",
+   "prompt": "Насколько вы изменились после того, как ступили на порог [i]Квартиранга[/i]?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93481",
+   "isValid": "",
+   "prompt": "Это... слёзы? Вы плачете? Но почему?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93482",
+   "isValid": "",
+   "prompt": "После сегодняшнего дня... что вы увидите, когда посмотрите в зеркало?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93483",
+   "isValid": "",
+   "prompt": "Что вы хотели сказать, как только попали сюда?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93484",
+   "isValid": "",
+   "prompt": "Если бы вы хотели шокировать нас в последний раз... что бы вы сказали?",
+   "x": false
+  }
+ ]
+}

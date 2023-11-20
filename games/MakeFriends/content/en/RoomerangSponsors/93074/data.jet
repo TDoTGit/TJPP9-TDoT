@@ -1,0 +1,26 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasSponsorAudio"
+  },
+  {
+   "t": "A",
+   "v": "sponsor",
+   "n": "SponsorAudio",
+   "s": "СТОЛЫ ДЛЯ СИДЕНИЯ"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasTaglineAudio"
+  },
+  {
+   "t": "A",
+   "v": "tagline",
+   "n": "TaglineAudio",
+   "s": "Когда ты сидишь на столе и за столом одновременно"
+  }
+ ]
+}

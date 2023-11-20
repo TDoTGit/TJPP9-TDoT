@@ -1,0 +1,2979 @@
+{
+ "content": [
+  {
+   "hasAdjective": false,
+   "id": "87883",
+   "isValid": "",
+   "plural": "Веганы",
+   "title": "Веган"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87885",
+   "isValid": "",
+   "plural": "Сантехники",
+   "title": "Cантехник"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87886",
+   "isValid": "",
+   "plural": "[n]массажисты[/n][f]массажистки[/f][m]массажисты[/m]",
+   "title": "[n]массажист[/n][f]массажистка[/f][m]массажист[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87887",
+   "isValid": "",
+   "plural": "архитекторы",
+   "title": "[n]архитектор[/n][f]архитекторша[/f][m]архитектор[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87888",
+   "isValid": "",
+   "plural": "Одиночки",
+   "title": "Одиночка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87889",
+   "isValid": "",
+   "plural": "Риэлторы",
+   "title": "Риэлтор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87890",
+   "isValid": "",
+   "plural": "[n]cмотрители[/n][f]cмотрительницы[/f][m]cмотрители[/m] маяка",
+   "title": "[n]cмотритель[/n][f]cмотрительница[/f][m]cмотритель[/m] маяка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87891",
+   "isValid": "",
+   "plural": "Cу-шефы",
+   "title": "Су-шеф"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87892",
+   "isValid": "",
+   "plural": "[n]домработники[/n][f]домработницы[/f][m]домработники[/m]",
+   "title": "[n]домработник[/n][f]домработница[/f][m]домработник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87893",
+   "isValid": "",
+   "plural": "Флористы",
+   "title": "Флорист"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87894",
+   "isValid": "",
+   "plural": "Экстрасенсы",
+   "title": "Экстрасенс"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87895",
+   "isValid": "",
+   "plural": "Инструкторы по серфингу",
+   "title": "Инструктор по сёрфингу"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87897",
+   "isValid": "",
+   "plural": "[n]стюарды[/n][f]стюардессы[/f][m]стюарды[/m]",
+   "title": "[n]стюард[/n][f]стюардесса[/f][m]стюард[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87898",
+   "isValid": "",
+   "plural": "Дизайнеры одежды",
+   "title": "Дизайнер одежды"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87899",
+   "isValid": "",
+   "plural": "[n]гимнасты[/n][f]гимнастки[/f][m]гимнасты[/m]",
+   "title": "[n]гимнаст[/n][f]гимнастка[/f][m]гимнаст[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87900",
+   "isValid": "",
+   "plural": "[n]библиотекари[/n][f]библиотекарши[/f][m]библиотекари[/m]",
+   "title": "[n]библиотекарь[/n][f]библиотекарша[/f][m]библиотекарь[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87901",
+   "isValid": "",
+   "plural": "[n]консьержи[/n][f]консьержки[/f][m]консьержи[/m]",
+   "title": "[n]консьерж[/n][f]консьержка[/f][m]консьерж[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87903",
+   "isValid": "",
+   "plural": "[n]писатели[/n][f]писательницы[/f][m]писатели[/m]",
+   "title": "[n]писатель[/n][f]писательница[/f][m]писатель[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87904",
+   "isValid": "",
+   "plural": "[n]cадовники[/n][f]cадовницы[/f][m]cадовники[/m]",
+   "title": "[n]cадовник[/n][f]cадовница[/f][m]cадовник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87905",
+   "isValid": "",
+   "plural": "Геологи",
+   "title": "Геолог"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87906",
+   "isValid": "",
+   "plural": "Дегустаторы",
+   "title": "Дегустатор"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87907",
+   "isValid": "",
+   "plural": "Лесорубы",
+   "title": "Лесоруб"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87908",
+   "isValid": "",
+   "plural": "[n]поэты[/n][f]поэтесса[/f][m]поэты[/m]",
+   "title": "[n]поэт[/n][f]поэтесса[/f][m]поэт[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87909",
+   "isValid": "",
+   "plural": "Музыканты",
+   "title": "Музыкант"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87910",
+   "isValid": "",
+   "plural": "Пожарные",
+   "title": "Пожарный"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87911",
+   "isValid": "",
+   "plural": "Модели рук",
+   "title": "Модель рук"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87912",
+   "isValid": "",
+   "plural": "[n]проводники[/n][f]проводницы[/f][m]проводники[/m]",
+   "title": "[n]проводник[/n][f]проводница[/f][m]проводник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87913",
+   "isValid": "",
+   "plural": "Сенаторы",
+   "title": "Cенатор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87914",
+   "isValid": "",
+   "plural": "[n]продавцы[/n][f]продавщицы[/f][m]продавцы[/m]",
+   "title": "[n]продавец[/n][f]продавщица[/f][m]продавец[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87915",
+   "isValid": "",
+   "plural": "[n]фермеры[/n][f]фермерши[/f][m]фермеры[/m]",
+   "title": "[n]фермер[/n][f]фермерша[/f][m]фермер[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87916",
+   "isValid": "",
+   "plural": "Инструкторы по пилатесу",
+   "title": "Инструктор по пилатесу"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87918",
+   "isValid": "",
+   "plural": "[n]пастухи[/n][f]пастушки[/f][m]пастухи[/m]",
+   "title": "[n]пастух[/n][f]пастушка[/f][m]пастух[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87919",
+   "isValid": "",
+   "plural": "Детские аниматоры",
+   "title": "Детский аниматор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87920",
+   "isValid": "",
+   "plural": "[n]сыщики[/n][f]сыщицы[/f][m]сыщики[/m]",
+   "title": "[n]сыщик[/n][f]сыщица[/f][m]сыщик[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87921",
+   "isValid": "",
+   "plural": "[n]учители[/n][f]учительницы[/f][m]учители[/m] английского",
+   "title": "[n]учитель[/n][f]учительница[/f][m]учитель[/m] английского"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87922",
+   "isValid": "",
+   "plural": "врачи неотложки",
+   "title": "врач неотложки"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87923",
+   "isValid": "",
+   "plural": "[n]акробаты[/n][f]акробатки[/f][m]акробаты[/m]",
+   "title": "[n]акробат[/n][f]акробатка[/f][m]акробат[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87925",
+   "isValid": "",
+   "plural": "[n]предприниматели[/n][f]предпринимательницы[/f][m]предприниматели[/m]",
+   "title": "[n]предприниматель[/n][f]предпринимательница[/f][m]предприниматель[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87927",
+   "isValid": "",
+   "plural": "Молодежные пасторы",
+   "title": "Молодежный пастор"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87928",
+   "isValid": "",
+   "plural": "Менеджеры отдела кадров",
+   "title": "Менеджер отдела кадров"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87929",
+   "isValid": "",
+   "plural": "Инструкторы по йоге",
+   "title": "Инструктор по йоге"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87930",
+   "isValid": "",
+   "plural": "[n]дрессировщики[/n][f]дрессировщицы[/f][m]дрессировщики[/m] лошадей",
+   "title": "[n]дрессировщик[/n][f]дрессировщица[/f][m]дрессировщик[/m] лошадей"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87931",
+   "isValid": "",
+   "plural": "Бухгалтеры",
+   "title": "Бухгалтер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87932",
+   "isValid": "",
+   "plural": "Судьи",
+   "title": "Cудья"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87933",
+   "isValid": "",
+   "plural": "[n]футболисты[/n][f]футболистки[/f][m]футболисты[/m]",
+   "title": "[n]футболист[/n][f]футболистка[/f][m]футболист[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87934",
+   "isValid": "",
+   "plural": "Мясники",
+   "title": "Мясник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87936",
+   "isValid": "",
+   "plural": "Гримёры",
+   "title": "Гримёр"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87937",
+   "isValid": "",
+   "plural": "Фотографы",
+   "title": "Фотограф"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87938",
+   "isValid": "",
+   "plural": "Ортопеды",
+   "title": "Ортопед"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87939",
+   "isValid": "",
+   "plural": "Стоматологи",
+   "title": "Стоматолог"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87940",
+   "isValid": "",
+   "plural": "[n]фетишисты[/n][f]фетишистки[/f][m]фетишисты[/m]",
+   "title": "[n]фетишист[/n][f]фетишистка[/f][m]фетишист[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87941",
+   "isValid": "",
+   "plural": "[n]переговорщик[/n][f]переговорщицы[/f][m]переговорщики[/m]",
+   "title": "[n]переговорщик[/n][f]переговорщица[/f][m]преговорщик[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87942",
+   "isValid": "",
+   "plural": "[n]татуировщики[/n][f]татуировщицы[/f][m]татуировщики[/m]",
+   "title": "[n]татуировщик[/n][f]татуировщица[/f][m]татуировщик[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87943",
+   "isValid": "",
+   "plural": "[n]барабанщики[/n][f]барабанщицы[/f][m]барабанщики[/m]",
+   "title": "[n]барабанщик[/n][f]барабанщица[/f][m]барабанщик[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87944",
+   "isValid": "",
+   "plural": "[n]танцовщики[/n][f]танцовщицы[/f][m]танцовщики[/m] танца живота",
+   "title": "[n]танцовщик[/n][f]танцовщица[/f][m]танцовщик[/m] танца живота"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87945",
+   "isValid": "",
+   "plural": "Брейкдансеры",
+   "title": "Брейкдансер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87946",
+   "isValid": "",
+   "plural": "учёные",
+   "title": "[n]учёный[/n][f]учёная[/f][m]учёный[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87947",
+   "isValid": "",
+   "plural": "Тв-шефы",
+   "title": "Тв-шеф"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87948",
+   "isValid": "",
+   "plural": "Искусствоведы",
+   "title": "Искусствовед"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87949",
+   "isValid": "",
+   "plural": "Морские котики",
+   "title": "Морской котик"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87950",
+   "isValid": "",
+   "plural": "[n]танцоры[/n][f]танцовщицы[/f][m]танцоры[/m]",
+   "title": "[n]танцор[/n][f]танцовщица[/f][m]танцор[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87951",
+   "isValid": "",
+   "plural": "Пивовары",
+   "title": "Пивовар"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87952",
+   "isValid": "",
+   "plural": "Готы",
+   "title": "Гот"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87953",
+   "isValid": "",
+   "plural": "[n]заместители[/n][f]заместительницы[/f][m]заместители[/m] учителя",
+   "title": "[n]заместитель[/n][f]заместительница[/f][m]заместитель[/m] учителя"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87954",
+   "isValid": "",
+   "plural": "Кондукторы",
+   "title": "Кондуктор"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87958",
+   "isValid": "",
+   "plural": "Директоры",
+   "title": "Директор"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87959",
+   "isValid": "",
+   "plural": "Дизайнеры интерьера",
+   "title": "Дизайнер интерьера"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87961",
+   "isValid": "",
+   "plural": "[n]барахольщики[/n][f]барахольщицы[/f][m]барахольщики[/m]",
+   "title": "[n]барахольщик[/n][f]барахольщица[/f][m]барахольщик[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87962",
+   "isValid": "",
+   "plural": "[n]клоуны[/n][f]клоунессы[/f][m]клоуны[/m]",
+   "title": "[n]клоун[/n][f]клоунесса[/f][m]клоун[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87963",
+   "isValid": "",
+   "plural": "[n]надзиратели[/n][f]надзирательницы[/f][m]надзиратели[/m]",
+   "title": "[n]надзиратель[/n][f]надзирательница[/f][m]надзиратель[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87964",
+   "isValid": "",
+   "plural": "[n]аферисты[/n][f]аферистки[/f][m]аферисты[/m]",
+   "title": "[n]аферист[/n][f]аферистка[/f][m]аферист[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87965",
+   "isValid": "",
+   "plural": "[n]охотники[/n][f]охотницы[/f][m]охотник[/m] на монстров",
+   "title": "[n]охотник[/n][f]охотница[/f][m]охотник[/m] на монстров"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87966",
+   "isValid": "",
+   "plural": "Скульпторы ледяных фигур",
+   "title": "Скульптор ледяных фигур"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87967",
+   "isValid": "",
+   "plural": "[n]дворники[/n][f]дворничихи[/f][m]дворники[/m]",
+   "title": "[n]дворник[/n][f]дворничиха[/f][m]дворник[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87968",
+   "isValid": "",
+   "plural": "воздушные [n]гимнасты[/n][f]гимнастки[/f][m]гимнасты[/m]",
+   "title": "[n]воздушный гимнаст[/n][f]воздушная гимнастка[/f][m]воздушный гимнаст[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87969",
+   "isValid": "",
+   "plural": "[n]фокусники[/n][f]фокусницы[/f][m]фокусники[/m]",
+   "title": "[n]фокусник[/n][f]фокусница[/f][m]фокусник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87970",
+   "isValid": "",
+   "plural": "Гипнотизёры",
+   "title": "Гипнотизёр"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87971",
+   "isValid": "",
+   "plural": "Сомелье",
+   "title": "Сомелье"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87972",
+   "isValid": "",
+   "plural": "[n]владельцы[/n][f]владелицы[/f][m]владельцы[/m] передвижных кафе",
+   "title": "[n]владелец[/n][f]владелица[/f][m]владелец[/m] передвижного кафе"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87973",
+   "isValid": "",
+   "plural": "Экзорцисты",
+   "title": "Экзорцист"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87974",
+   "isValid": "",
+   "plural": "[n]активисты[/n][f]активистки[/f][m]активисты[/m]",
+   "title": "[n]активист[/n][f]активистка[/f][m]активист[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87976",
+   "isValid": "",
+   "plural": "[n]портные[/n][f]портнихи[/f][m]портные[/m]",
+   "title": "[n]портной[/n][f]портниха[/f][m]портной[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87977",
+   "isValid": "",
+   "plural": "Диджеи",
+   "title": "Диджей"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87978",
+   "isValid": "",
+   "plural": "ведущие прогноза погоды",
+   "title": "[n]ведущий[/n][f]ведущая[/f][m]ведущий[/m] прогноза погоды"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87979",
+   "isValid": "",
+   "plural": "[n]дворецкие[/n][f]экономки[/f][m]дворецкие[/m]",
+   "title": "[n]дворецкий[/n][f]экономка[/f][m]дворецкий[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87980",
+   "isValid": "",
+   "plural": "Звёзды детского тв",
+   "title": "Звезда детского тв"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87981",
+   "isValid": "",
+   "plural": "Ловцы собак",
+   "title": "Ловец собак"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87982",
+   "isValid": "",
+   "plural": "Дублёры",
+   "title": "Дублёр"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87983",
+   "isValid": "",
+   "plural": "[n]пилоты[/n][f]пилотессы[/f][m]пилоты[/m] вертолётов",
+   "title": "[n]пилот[/n][f]пилотесса[/f][m]пилот[/m] вертолёта"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87985",
+   "isValid": "",
+   "plural": "[n]актёры[/n][f]актрисы[/f][m]актёры[/m]",
+   "title": "[n]актёр[/n][f]актриса[/f][m]актёр[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87986",
+   "isValid": "",
+   "plural": "Ресторанные критики",
+   "title": "Ресторанный критик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87987",
+   "isValid": "",
+   "plural": "Коллекционеры игрушек",
+   "title": "Коллекционер игрушек"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87988",
+   "isValid": "",
+   "plural": "Кузнецы",
+   "title": "Кузнец"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87989",
+   "isValid": "",
+   "plural": "[n]брюнеты[/n][f]брюнетки[/f][m]брюнеты[/m]",
+   "title": "[n]брюнет[/n][f]брюнетка[/f][m]брюнет[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87990",
+   "isValid": "",
+   "plural": "Могильщики",
+   "title": "Могильщик"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87991",
+   "isValid": "",
+   "plural": "[n]расхитители[/n][f]расхитительницы[/f][m]расхитители[/m] гробниц",
+   "title": "[n]расхититель[/n][f]расхитительница[/f][m]расхититель[/m] гробниц"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87992",
+   "isValid": "",
+   "plural": "Инфлюенсеры",
+   "title": "Инфлюенсер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87993",
+   "isValid": "",
+   "plural": "Тикток звёзды",
+   "title": "Тикток звезда"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87994",
+   "isValid": "",
+   "plural": "Контентмейкеры",
+   "title": "Контентмейкер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87995",
+   "isValid": "",
+   "plural": "[n]тусовщики[/n][f]тусовщицы[/f][m]тусовщики[/m]",
+   "title": "[n]тусовщик[/n][f]тусовщица[/f][m]тусовщик[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87996",
+   "isValid": "",
+   "plural": "[n]торговцы[/n][f]торговки[/f][m]торговцы[/ m] рыбой",
+   "title": "[n]торговец[/n][f]торговка[/f][m]торговец[/m] рыбой"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87997",
+   "isValid": "",
+   "plural": "Тамада",
+   "title": "Тамада"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87998",
+   "isValid": "",
+   "plural": "[n]пограничники[/n][f]пограничницы[/f][m]пограничники[/m]",
+   "title": "[n]пограничник[/n][f]пограничница[/f][m]пограничник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87999",
+   "isValid": "",
+   "plural": "Школьные врачи",
+   "title": "Школьный врач"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88000",
+   "isValid": "",
+   "plural": "Мастера по маникюру",
+   "title": "Мастер по маникюру"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88001",
+   "isValid": "",
+   "plural": "[n]гонщики[/n][f]гонщицы[/f][m]гонщики[/m]",
+   "title": "[n]гонщик[/n][f]гонщица[/f][m]гонщик[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88002",
+   "isValid": "",
+   "plural": "[n]спасатели[/n][f]спасательницы[/f][m]спасатели[/m]",
+   "title": "[n]спасатель[/n][f]спасательница[/f][m]спасатель[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88003",
+   "isValid": "",
+   "plural": "[n]маляры[/n][f]малярши[/f][m]маляры[/m]",
+   "title": "[n]маляр[/n][f]малярша[/f][m]маляр[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88004",
+   "isValid": "",
+   "plural": "Адвокаты",
+   "title": "Адвокат"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88005",
+   "isValid": "",
+   "plural": "[n]писатели[/n][f]писательницы[/f][m]писатели[/m]-путешественники",
+   "title": "[n]писатель[/n][f]писательница[/f][m]писатель[/m]-путешественник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88006",
+   "isValid": "",
+   "plural": "Личные тренеры",
+   "title": "Личный тренер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88007",
+   "isValid": "",
+   "plural": "Сержант-инструкторы",
+   "title": "Сержант-инструктор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88008",
+   "isValid": "",
+   "plural": "[n]аквалангисты[/n][f]аквалангистки[/f][m]аквалангисты[/m]",
+   "title": "[n]аквалангист[/n][f]аквалангистка[/f][m]аквалангист[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88009",
+   "isValid": "",
+   "plural": "[n]охотники[/n][f]охотницы[/f][m]охотники[/m] за сокровищами",
+   "title": "[n]охотник[/n][f]охотница[/f][m]охотник[/m] за сокровищами"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88010",
+   "isValid": "",
+   "plural": "[n]наездники[/n][f]наездницы[/f][m]наездники[/m]",
+   "title": "[n]наездник[/n][f]наездница[/f][m]наездник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88196",
+   "isValid": "",
+   "plural": "Морские капитаны",
+   "title": "Морской капитан"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88254",
+   "isValid": "",
+   "plural": "Инструкторы",
+   "title": "Инструктор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88255",
+   "isValid": "",
+   "plural": "[n]экскурсоводы[/n][f]экскурсоводки[/f][m]экскурсоводы[/m]",
+   "title": "[n]экскурсовод[/n][f]экскурсоводка[/f][m]экскурсовод[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88256",
+   "isValid": "",
+   "plural": "[n]укротители[/n][f]укротительницы[/f][m]укротители[/m] львов",
+   "title": "[n]укротитель[/n][f]укротительница[/f][m]укротитель[/m] львов"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88257",
+   "isValid": "",
+   "plural": "замаскированные [n]медведи[/n][f]медведицы[/f][m]медведи[/m]",
+   "title": "[n]замаскированный медведь[/n][f]замаскированная медведица[/f][m]замаскированный медведь[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88258",
+   "isValid": "",
+   "plural": "[n]манекенщики[/n][f]манекенщицы[/f][m]манекенщики[/m]",
+   "title": "[n]манекенщик[/n][f]манекенщица[/f][m]манекеннщик[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88260",
+   "isValid": "",
+   "plural": "[n]шпионы[/n][f]шпионки[/f][m]шпионы[/m]",
+   "title": "[n]шпион[/n][f]шпионка[/f][m]шпион[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88328",
+   "isValid": "",
+   "plural": "Кондитеры",
+   "title": "Кондитер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88329",
+   "isValid": "",
+   "plural": "панк-[n]гитаристы[/n][f]гитаристки[/f][m]гитаристы[/m]",
+   "title": "панк-[n]гитарист[/n][f]гитаристка[/f][m]гитарист[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88331",
+   "isValid": "",
+   "plural": "Гиды по океанариуму",
+   "title": "Гид по океанариуму"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88332",
+   "isValid": "",
+   "plural": "[n]выживальщики[/n][f]выживальщицы[/f][m]выживальщики[/m]",
+   "title": "[n]выживальщик[/n][f]выживальщица[/f][m]выживальщик[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88334",
+   "isValid": "",
+   "plural": "Ковбои",
+   "title": "Ковбой"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88336",
+   "isValid": "",
+   "plural": "[n]фанаты[/n][f]фанатки[/f][m]фанаты[/m] битлз",
+   "title": "[n]фанат[/n][f]фанатка[/f][m]фанат[/m] битлз"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88337",
+   "isValid": "",
+   "plural": "[n]отцы-домохозяины[/n][f]матери-домохозяйки[/f][m]отцы-домохозяины[/m]",
+   "title": "[n]отец-домохозяин[/n][f]мать-домохозяйка[/f][m]отец-домохозяин[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88338",
+   "isValid": "",
+   "plural": "Картографы",
+   "title": "Картограф"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88434",
+   "isValid": "",
+   "plural": "[n]портные[/n][f]портнихи[/f][m]портные[/m]",
+   "title": "[n]портной[/n][f]портниха[/f][m]портной[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88435",
+   "isValid": "",
+   "plural": "Гуру",
+   "title": "Гуру"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88436",
+   "isValid": "",
+   "plural": "Метеорологи",
+   "title": "Метеоролог"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88437",
+   "isValid": "",
+   "plural": "[n]смотрители[/n][f]смотрительницы[/f][m]смотрители[/m]",
+   "title": "[n]смотритель[/n][f]смотрительница[/f][m]смотритель[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88438",
+   "isValid": "",
+   "plural": "[n]выпендрёжники[/n][f]выпендрёжницы[/f][m]выпендрёжники[/m]",
+   "title": "[n]выпендрёжник[/n][f]выпендрёжница[/f][m]выпендрёжник[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88439",
+   "isValid": "",
+   "plural": "[n]певцы[/n][f]певицы[/f][m]певцы[/m]",
+   "title": "[n]певец[/n][f]певица[/f][m]певец[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88440",
+   "isValid": "",
+   "plural": "[n]танцоры[/n][f]танцовщицы[/f][m]танцоры[/m] из подтанцовки",
+   "title": "[n]танцор[/n][f]танцовщица[/f][m]танцор[/m] из подтанцовки"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88441",
+   "isValid": "",
+   "plural": "[n]учители[/n][f]учительницы[/f][m]учители[/m] физики",
+   "title": "[n]учитель[/n][f]учительница[/f][m]учитель[/m] физики"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88500",
+   "isValid": "",
+   "plural": "[n]огородники[/n][f]огородницы[/f][m]огородники[/m]",
+   "title": "[n]огородник[/n][f]огородница[/f][m]огородник[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88501",
+   "isValid": "",
+   "plural": "[n]фермеры[/n][f]фермерши[/f][m]фермеры[/m]",
+   "title": "[n]фермер[/n][f]фермерша[/f][m]фермер[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88502",
+   "isValid": "",
+   "plural": "Сыровары",
+   "title": "Сыровар"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88503",
+   "isValid": "",
+   "plural": "Аукционеры",
+   "title": "Аукционер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88504",
+   "isValid": "",
+   "plural": "Манекены",
+   "title": "Манекен"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88505",
+   "isValid": "",
+   "plural": "Военные историки",
+   "title": "Военный историк"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88506",
+   "isValid": "",
+   "plural": "Авторы некрологов",
+   "title": "Автор некрологов"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88507",
+   "isValid": "",
+   "plural": "[n]выращиватели[/n][f]выращивательницы[/f][m]выращиватели[/m] тюльпанов",
+   "title": "[n]выращиватель[/n][f]выращивательница[/f][m]выращиватель[/m] тюльпанов"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88508",
+   "isValid": "",
+   "plural": "пустынные [n]отшельники[/n][f]отшельницы[/f][m]отшельники[/m]",
+   "title": "[n]пустынный отшельник[/n][f]пустынная отшельница[/f][m]пустынный отшельник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88509",
+   "isValid": "",
+   "plural": "Собачьи парикмахеры",
+   "title": "Собачий парикмахер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88560",
+   "isValid": "",
+   "plural": "[n]повары[/n][f]поварихи[/f][m]повары[/m] закусочных",
+   "title": "[n]повар[/n][f]повариха[/f][m]повар[/m] закусочной"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88561",
+   "isValid": "",
+   "plural": "Редакторы словаря",
+   "title": "Редактор словаря"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88562",
+   "isValid": "",
+   "plural": "Пираты",
+   "title": "Пират"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88563",
+   "isValid": "",
+   "plural": "Инспекторы ветчины",
+   "title": "Инспектор ветчины"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88564",
+   "isValid": "",
+   "plural": "[n]искатели[/n][f]искательницы[/f][m]искатели[/m] талантов",
+   "title": "[n]искатель[/n][f]искательница[/f][m]искатель[/m] талантов"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88565",
+   "isValid": "",
+   "plural": "[n]корреспонденты[/n][f]корреспондентки[/f][m]корреспонденты[/m]",
+   "title": "[n]корреспондент[/n][f]корреспондентка[/f][m]корреспондент[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88566",
+   "isValid": "",
+   "plural": "ведущие ток-шоу",
+   "title": "[n]ведущий[/n][f]ведущая[/f][m]ведущий[/m] ток-шоу"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88568",
+   "isValid": "",
+   "plural": "[n]бармены[/n][f]барменши[/f][m]бармены[/m]",
+   "title": "[n]бармен[/n][f]барменша[/f][m]бармен[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88570",
+   "isValid": "",
+   "plural": "[n]дальнобойщики[/n][f]дальнобойщицы[/f][m]дальнобойщики[/m]",
+   "title": "[n]дальнобойщик[/n][f]дальнобойщица[/f][m]дальнобойщик[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88572",
+   "isValid": "",
+   "plural": "уличные [n]музыканты[/n][f]музыкантши[/f][m]музыканты[/m]",
+   "title": "[n]уличный музыкант[/n][f]уличная музыкантша[/f][m]уличный музыкант[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88573",
+   "isValid": "",
+   "plural": "[n]скалолазы[/n][f]скалолазки[/f][m]скалолазы[/m]",
+   "title": "[n]скалолаз[/n][f]скалолазка[/f][m]скалолаз[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88574",
+   "isValid": "",
+   "plural": "Сёрферы",
+   "title": "Сёрфер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88575",
+   "isValid": "",
+   "plural": "Терапевты для пар",
+   "title": "Терапевт для пар"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88576",
+   "isValid": "",
+   "plural": "Дерматологи",
+   "title": "Дерматолог"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88577",
+   "isValid": "",
+   "plural": "Коллекторы",
+   "title": "Коллектор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88578",
+   "isValid": "",
+   "plural": "[n]слуги[/n][f]служанки[/f][m]слуги[/m]",
+   "title": "[n]слуга[/n][f]служанка[/f][m]слуга[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88606",
+   "isValid": "",
+   "plural": "[n]рыцари[/n][f]принцессы[/f][m]рыцари[/m]",
+   "title": "[n]рыцарь[/n][f]принцесса[/f][m]рыцарь[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88607",
+   "isValid": "",
+   "plural": "[n]ветеринары[/n][f]ветеринарши[/f][m]ветеринары[/m]",
+   "title": "[n]ветеринар[/n][f]ветеринарша[/f][m]ветеринар[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88608",
+   "isValid": "",
+   "plural": "Гении",
+   "title": "Гений"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88609",
+   "isValid": "",
+   "plural": "Миллионеры",
+   "title": "Миллионер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88610",
+   "isValid": "",
+   "plural": "любопытные [n]соседи[/n][f]соседки[/f][m]соседи[/m]",
+   "title": "[n]любопытный сосед[/n][f]любопытная соседка[/f][m]любопытный сосед[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88614",
+   "isValid": "",
+   "plural": "[n]сплетники[/n][f]сплетницы[/f][m]сплетники[/m]",
+   "title": "[n]сплетник[/n][f]сплетница[/f][m]сплетник[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88615",
+   "isValid": "",
+   "plural": "[n]доброжелатели[/n][f]доброжелательницы[/f][m]доброжелатели[/m]",
+   "title": "[n]доброжелатель[/n][f]доброжелательница[/f][m]доброжелатель[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88616",
+   "isValid": "",
+   "plural": "[n]контрабандисты[/n][f]контрабандистки[/f][m]контрабандисты[/m] птиц",
+   "title": "[n]контрабандист[/n][f]контрабандистка[/f][m]контрабандист[/m] птиц"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88617",
+   "isValid": "",
+   "plural": "[n]наёмники[/n][f]наёмницы[/f][m]наёмники[/m]",
+   "title": "[n]наёмник[/n][f]наёмница[/f][m]наёмник[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88618",
+   "isValid": "",
+   "plural": "воображаемые [n]друзья[/n][f]подруги[/f][m]друзья[/m]",
+   "title": "[n]воображаемый друг[/n][f]воображаемая подруга[/f][m]воображаемый друг[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88619",
+   "isValid": "",
+   "plural": "Призраки",
+   "title": "Призрак"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88620",
+   "isValid": "",
+   "plural": "Шерифы",
+   "title": "Шериф"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88621",
+   "isValid": "",
+   "plural": "[n]сотрудники[/n][f]сотрудницы[/f][m]сотрудники[/m] дпс",
+   "title": "[n]сотрудник[/n][f]сотрудница[/f][m]сотрудник[/m] дпс"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88624",
+   "isValid": "",
+   "plural": "[n]настройщики[/n][f]настройщицы[/f][m]настройщики[/m] рояля",
+   "title": "[n]настройщик[/n][f]настройщица[/f][m]настройщик[/m] рояля"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88625",
+   "isValid": "",
+   "plural": "[n]дельтапланерист[/n][f]дельтапланеристка[/f][m]дельтапланерист[/m]",
+   "title": "[n]дельтапланерист[/n][f]дельтапланеристка[/f][m]дельтапланерист[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88627",
+   "isValid": "",
+   "plural": "[n]парикмахеры[/n][f]парикмахерши[/f][m]парикмахеры[/m]",
+   "title": "[n]парикмахер[/n][f]парикмахерша[/f][m]парикмахер[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88628",
+   "isValid": "",
+   "plural": "Инди-режиссеры",
+   "title": "Инди-режиссер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88631",
+   "isValid": "",
+   "plural": "[n]учители[/n][f]учительницы[/f][m]учители[/m] испанского языка",
+   "title": "[n]учитель[/n][f]учительница[/f][m]учитель[/m] испанского языка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88632",
+   "isValid": "",
+   "plural": "Коллекционеры марок",
+   "title": "Коллекционер марок"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88633",
+   "isValid": "",
+   "plural": "[n]буфетчики[/n][f]буфетчицы[/f][m]буфетчики[/m]",
+   "title": "[n]буфетчик[/n][f]буфетчица[/f][m]буфетчик[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88635",
+   "isValid": "",
+   "plural": "Инструкторы по вождению",
+   "title": "Инструктор по вождению"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88636",
+   "isValid": "",
+   "plural": "Физруки",
+   "title": "Физрук"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88637",
+   "isValid": "",
+   "plural": "Звёзды эстрады",
+   "title": "Звезда эстрады"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88638",
+   "isValid": "",
+   "plural": "Звёзды мыльных опер",
+   "title": "Звезда мыльной оперы"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88640",
+   "isValid": "",
+   "plural": "Тореадоры",
+   "title": "Тореадор"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88641",
+   "isValid": "",
+   "plural": "Адвокаты защиты",
+   "title": "Адвокат защиты"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88642",
+   "isValid": "",
+   "plural": "французские [n]повара[/n][f]поварихи[/f][m]повара[/m]",
+   "title": "[n]французский повар[/n][f]французская повариха[/f][m]французский повар[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88643",
+   "isValid": "",
+   "plural": "[n]бандиты[/n][f]бандитки[/f][m]бандиты[/m]",
+   "title": "[n]бандит[/n][f]бандитка[/f][m]бандит[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88644",
+   "isValid": "",
+   "plural": "[n]миссионеры[/n][f]миссионерки[/f][m]миссионеры[/m]",
+   "title": "[n]миссионер[/n][f]миссионерка[/f][m]миссионер[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88645",
+   "isValid": "",
+   "plural": "Поп-звёзды",
+   "title": "Поп-звезда"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88646",
+   "isValid": "",
+   "plural": "Геймеры",
+   "title": "Геймер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88647",
+   "isValid": "",
+   "plural": "Кондукторы",
+   "title": "Кондуктор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88648",
+   "isValid": "",
+   "plural": "[n]радисты[/n][f]радистки[/f][m]радисты[/m]",
+   "title": "[n]радист[/n][f]радистка[/f][m]радист[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88649",
+   "isValid": "",
+   "plural": "Рэперы",
+   "title": "Рэпер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88683",
+   "isValid": "",
+   "plural": "Мимы",
+   "title": "Мим"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88784",
+   "isValid": "",
+   "plural": "Консультанты",
+   "title": "Консультант"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88824",
+   "isValid": "",
+   "plural": "[n]мажоры[/n][f]мажорки[/f][m]мажоры[/m]",
+   "title": "[n]мажор[/n][f]мажорка[/f][m]мажор[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88826",
+   "isValid": "",
+   "plural": "В разводе",
+   "title": "В разводе"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88827",
+   "isValid": "",
+   "plural": "[n]болтуны[/n][f]болтушки[/f][m]болтуны[/m]",
+   "title": "[n]болтун[/n][f]болтушка[/f][m]болтун[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88828",
+   "isValid": "",
+   "plural": "[n]собиратели[/n][f]собирательницы[/f][m]собиратели[/m] моллюсков",
+   "title": "[n]собиратель[/n][f]собирательница[/f][m]собиратель[/m] моллюсков"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88829",
+   "isValid": "",
+   "plural": "Ботаны",
+   "title": "Ботан"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88831",
+   "isValid": "",
+   "plural": "Футбольные тренеры",
+   "title": "Футбольный тренер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88832",
+   "isValid": "",
+   "plural": "Чирлидеры",
+   "title": "Чирлидер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88862",
+   "isValid": "",
+   "plural": "[n]наблюдатели[/n][f]наблюдательницы[/f][m]наблюдатели[/m] за птицами",
+   "title": "[n]наблюдатель[/n][f]наблюдательница[/f][m]наблюдатель[/m] за птицами"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88863",
+   "isValid": "",
+   "plural": "Мэры",
+   "title": "Мэр"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88864",
+   "isValid": "",
+   "plural": "[n]официанты[/n][f]официантки[/f][m]официанты[/m]",
+   "title": "[n]официант[/n][f]официантка[/f][m]официант[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88866",
+   "isValid": "",
+   "plural": "[n]курьеры[/n][f]курьершы[/f][m]курьеры[/m]",
+   "title": "[n]курьер[/n][f]курьерша[/f][m]курьер[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88867",
+   "isValid": "",
+   "plural": "неоплачиваемые [n]стажёры[/n][f]стажёрки[/f][m]стажёры[/m]",
+   "title": "[n]неоплачиваемый стажёр[/n][f]неоплачиваемая стажёрка[/f][m]неоплачиваемый стажёр[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88868",
+   "isValid": "",
+   "plural": "[n]директоры[/n][f]директрисы[/f][m]директоры[/m] лайнеров",
+   "title": "[n]директор[/n][f]директриса[/f][m]директор[/m] лайнера"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88869",
+   "isValid": "",
+   "plural": "[n]косплейщики[/n][f]косплейщицы[/f][m]косплейщики[/m]",
+   "title": "[n]косплейщик[/n][f]косплейщица[/f][m]косплейщик[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88870",
+   "isValid": "",
+   "plural": "Зомби",
+   "title": "Зомби"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88871",
+   "isValid": "",
+   "plural": "Миксологи",
+   "title": "Миксолог"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88872",
+   "isValid": "",
+   "plural": "[n]скульпторы[/n][f]скульпторши[/f][m]скульпторы[/m]",
+   "title": "[n]скульптор[/n][f]скульпторша[/f][m]скульптор[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88874",
+   "isValid": "",
+   "plural": "Вторые пилоты",
+   "title": "Второй пилот"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88875",
+   "isValid": "",
+   "plural": "[n]дипломаты[/n][f]дипломатки[/f][m]дипломаты[/m]",
+   "title": "[n]дипломат[/n][f]дипломатка[/f][m]дипломат[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88876",
+   "isValid": "",
+   "plural": "Лесники",
+   "title": "Лесник"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88877",
+   "isValid": "",
+   "plural": "[n]хозяины[/n][f]хозяйки[/f][m]хозяины[/m] подземелья",
+   "title": "[n]хозяин[/n][f]хозяйка[/f][m]хозяин[/m] подземелья"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88882",
+   "isValid": "",
+   "plural": "Шулеры",
+   "title": "Шулер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88883",
+   "isValid": "",
+   "plural": "[n]мученики[/n][f]мученицы[/f][m]мученики[/m]",
+   "title": "[n]мученик[/n][f]мученица[/f][m]мученик[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88884",
+   "isValid": "",
+   "plural": "[n]мечтатели[/n][f]мечтательницы[/f][m]мечтатели[/m]",
+   "title": "[n]мечтатель[/n][f]мечтательница[/f][m]мечтатель[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88885",
+   "isValid": "",
+   "plural": "Прислуги",
+   "title": "Прислуга"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88886",
+   "isValid": "",
+   "plural": "Йодлеры",
+   "title": "Йодлер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88976",
+   "isValid": "",
+   "plural": "[n]мошенники[/n][f]мошенницы[/f][m]мошенники[/m]",
+   "title": "[n]мошенник[/n][f]мошенница[/f][m]мошенник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88978",
+   "isValid": "",
+   "plural": "[n]Путешественники[/n][f]Путешественницы[/f][m]Путешесвенники[/m] во времени",
+   "title": "[n]Путешественник[/n][f]Путешественница[/f][m]Путешественник[/m] во времени"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88979",
+   "isValid": "",
+   "plural": "Клоуны класса",
+   "title": "Клоун класса"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88980",
+   "isValid": "",
+   "plural": "бегущие по лезвию",
+   "title": "[n]бегущий по лезвию[/n][f]бегущая по лезвию[/f][m]бегущий по лезвию[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88982",
+   "isValid": "",
+   "plural": "Электрики",
+   "title": "Электрик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88983",
+   "isValid": "",
+   "plural": "Предвзятые жюри",
+   "title": "[n]Предвзятый[/n][f]Предвзятая[/f][m]Предвзятый[/m] жюри"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88984",
+   "isValid": "",
+   "plural": "Знатоки призраков",
+   "title": "Знаток призраков"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88985",
+   "isValid": "",
+   "plural": "Ортодонты",
+   "title": "Ортодонт"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88986",
+   "isValid": "",
+   "plural": "Аптекари",
+   "title": "Аптекарь"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88987",
+   "isValid": "",
+   "plural": "[n]юристы[/n][f]юристки[/f][m]юристы[/m]",
+   "title": "[n]юрист[/n][f]юристка[/f][m]юрист[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88988",
+   "isValid": "",
+   "plural": "Кукловоды",
+   "title": "Кукловод"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88989",
+   "isValid": "",
+   "plural": "[n]задроты[/n][f]задротки[/f][m]задроты[/m]",
+   "title": "[n]задрот[/n][f]задротка[/f][m]задрот[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88990",
+   "isValid": "",
+   "plural": "Баристы",
+   "title": "Бариста"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88991",
+   "isValid": "",
+   "plural": "Мастера на все руки",
+   "title": "Мастер на все руки"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88992",
+   "isValid": "",
+   "plural": "Алхимики",
+   "title": "Алхимик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88993",
+   "isValid": "",
+   "plural": "Бухгалтеры",
+   "title": "Бухгалтер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89014",
+   "isValid": "",
+   "plural": "Коллекционеры картин",
+   "title": "Коллекционер картин"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89016",
+   "isValid": "",
+   "plural": "Капитаны подлодки",
+   "title": "Капитан подлодки"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89017",
+   "isValid": "",
+   "plural": "[n]маслобойщики[/n][f]маслобойщицы[/f][m]маслобойщики[/m]",
+   "title": "[n]маслобойщик[/n][f]маслобойщица[/f][m]маслобойщик[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89018",
+   "isValid": "",
+   "plural": "[n]выращиватели[/n][f]выращивательницы[/f][m]выращиватели[/m] чеснока",
+   "title": "[n]выращиватель[/n][f]выращивательница[/f][m]выращиватель[/m] чеснока"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89019",
+   "isValid": "",
+   "plural": "Стеклодувы",
+   "title": "Стеклодув"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89020",
+   "isValid": "",
+   "plural": "Шахтеры",
+   "title": "Шахтер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89051",
+   "isValid": "",
+   "plural": "[n]охотники[/n][f]охотницы[/f][m]охотники[/m] на крокодилов",
+   "title": "[n]охотник[/n][f]охотница[/f][m]охотник[/m] на крокодилов"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89054",
+   "isValid": "",
+   "plural": "[n]батраки[/n][f]батрачки[/f][m]батраки[/m]",
+   "title": "[n]батрак[/n][f]батрачка[/f][m]батрак[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89086",
+   "isValid": "",
+   "plural": "[n]укротители[/n][f]укротительницы[/f][m]укротители[/m] змей",
+   "title": "[n]укротитель[/n][f]укротительница[/f][m]укротитель[/m] змей"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89087",
+   "isValid": "",
+   "plural": "Докеры",
+   "title": "Докер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89088",
+   "isValid": "",
+   "plural": "Роботы",
+   "title": "Робот"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89089",
+   "isValid": "",
+   "plural": "Птицы",
+   "title": "Птица"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89090",
+   "isValid": "",
+   "plural": "Космонавты",
+   "title": "Космонавт"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89091",
+   "isValid": "",
+   "plural": "Живые легенды",
+   "title": "Живая легенда"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89092",
+   "isValid": "",
+   "plural": "Обычные люди",
+   "title": "Обычный человек"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89093",
+   "isValid": "",
+   "plural": "Кинокритики",
+   "title": "Кинокритик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89094",
+   "isValid": "",
+   "plural": "Хоббиты",
+   "title": "Хоббит"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89095",
+   "isValid": "",
+   "plural": "Боссы",
+   "title": "Босс"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89096",
+   "isValid": "",
+   "plural": "ведущие подкаста",
+   "title": "[n]ведущий[/n][f]ведущая[/f][m]ведущий[/m] подкаста"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89097",
+   "isValid": "",
+   "plural": "[n]воры[/n][f]воровки[/f][m]воры[/m]",
+   "title": "[n]вор[/n][f]воровка[/f][m]вор[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89098",
+   "isValid": "",
+   "plural": "[n]анимешники[/n][f]анимешницы[/f][m]анимешники[/m]",
+   "title": "[n]анимешник[/n][f]анимешница[/f][m]анимешник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89164",
+   "isValid": "",
+   "plural": "Почтальоны",
+   "title": "Почтальон"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89165",
+   "isValid": "",
+   "plural": "Жонглёры",
+   "title": "Жонглёр"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89166",
+   "isValid": "",
+   "plural": "[n]флейтисты[/n][f]флейтистки[/f][m]флейтисты[/m]",
+   "title": "[n]флейтист[/n][f]флейтистка[/f][m]флейтист[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89167",
+   "isValid": "",
+   "plural": "Диванные эксперты",
+   "title": "Диванный эксперт"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89169",
+   "isValid": "",
+   "plural": "Бармены салуна",
+   "title": "Бармен салуна"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89170",
+   "isValid": "",
+   "plural": "Гении комедий",
+   "title": "Гений комедии"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89171",
+   "isValid": "",
+   "plural": "Организаторы тусы",
+   "title": "Организатор тусы"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89172",
+   "isValid": "",
+   "plural": "[n]телепродавцы[/n][f]телепродавщицы[/f][m]телепродавцы[/m]",
+   "title": "[n]телепродавец[/n][f]телепродавщица[/f][m]телепродавец[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89173",
+   "isValid": "",
+   "plural": "[n]торговцы[/n][f]торговки[/f][m]торговцы[/m]",
+   "title": "[n]торговец[/n][f]торговка[/f][m]торговец[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89192",
+   "isValid": "",
+   "plural": "[n]скитальцы[/n][f]скитальщицы[/f][m]скитальцы[/m]",
+   "title": "[n]скиталец[/n][f]скитальщица[/f][m]скиталец[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89194",
+   "isValid": "",
+   "plural": "Старые души",
+   "title": "Старая душа"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89195",
+   "isValid": "",
+   "plural": "Малыши",
+   "title": "Малыш"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89197",
+   "isValid": "",
+   "plural": "[n]целители[/n][f]целительницы[/f][m]целители[/m]",
+   "title": "[n]целитель[/n][f]целительница[/f][m]целитель[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89198",
+   "isValid": "",
+   "plural": "прохожие",
+   "title": "[n]прохожий[/n][f]прохожая[/f][m]прохожий[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89199",
+   "isValid": "",
+   "plural": "опекуны",
+   "title": "[n]опекун[/n][f]опекунша[/f][m]опекун[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89310",
+   "isValid": "",
+   "plural": "Стоматологи",
+   "title": "Стоматолог"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89311",
+   "isValid": "",
+   "plural": "Скотоводы",
+   "title": "Скотовод"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89313",
+   "isValid": "",
+   "plural": "[n]директоры[/n][f]директрисы[/f][m]директоры[/m] школы",
+   "title": "[n]директор[/n][f]директриса[/f][m]директор[/m] школы"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89314",
+   "isValid": "",
+   "plural": "каменщики",
+   "title": "[n]каменщик[/n][f]каменщица[/f][m]каменщик[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89325",
+   "isValid": "",
+   "plural": "миллиардеры",
+   "title": "[n]миллиардер[/n][f]миллиардерша[/f][m]миллиардер[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89326",
+   "isValid": "",
+   "plural": "финансовые [n]советники[/n][f]советницы[/f][m]советники[/m]",
+   "title": "[n]финансовый советник[/n][f]финансовая советница[/f][m]финансовый советник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89327",
+   "isValid": "",
+   "plural": "Тренеры по медитации",
+   "title": "Тренер по медитации"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89330",
+   "isValid": "",
+   "plural": "[n]сотрудники[/n][f]сотрудницы[/f][m]сотрудники[/m] ikea",
+   "title": "[n]сотрудник[/n][f]сотрудница[/f][m]сотрудник[/m] ikea"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89408",
+   "isValid": "",
+   "plural": "Сами непредсказуемости",
+   "title": "Сама непредсказуемость"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89423",
+   "isValid": "",
+   "plural": "самаритяне",
+   "title": "[n]самаритянин[/n][f]самаритянка[/f][m]самаритянин[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89424",
+   "isValid": "",
+   "plural": "Повстанцы",
+   "title": "Повстанец"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89426",
+   "isValid": "",
+   "plural": "Врачи",
+   "title": "Врач"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89427",
+   "isValid": "",
+   "plural": "Близнецы",
+   "title": "Близнец"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89429",
+   "isValid": "",
+   "plural": "Авторы романов",
+   "title": "Автор романов"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89431",
+   "isValid": "",
+   "plural": "Футбольные комментаторы",
+   "title": "Футбольный комментатор"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89432",
+   "isValid": "",
+   "plural": "Хореографы",
+   "title": "Хореограф"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89445",
+   "isValid": "",
+   "plural": "[n]напарники[/n][f]напарницы[/f][m]напарники[/m]",
+   "title": "[n]напарник[/n][f]напарница[/f][m]напарник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89446",
+   "isValid": "",
+   "plural": "Романтики",
+   "title": "Романтик"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89447",
+   "isValid": "",
+   "plural": "[n]ворчуны[/n][f]ворчуньи[/f][m]ворчуны[/m]",
+   "title": "[n]ворчун[/n][f]ворчунья[/f][m]ворчун[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89491",
+   "isValid": "",
+   "plural": "[n]гипепопекуны[/n][f]гиперопекунши[/f][m]гиперопекуны[/m]",
+   "title": "[n]гиперопекун[/n][f]гиперопекунша[/f][m]гиперопекун[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89492",
+   "isValid": "",
+   "plural": "родители года",
+   "title": "[n]отец года[/n][f]мать-наседка[/f][m]отец года[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89493",
+   "isValid": "",
+   "plural": "Скептики",
+   "title": "Скептик"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89494",
+   "isValid": "",
+   "plural": "[n]хулиганы[/n][f]хулиганки[/f][m]хулиганы[/m]",
+   "title": "[n]хулиган[/n][f]хулиганка[/f][m]хулиган[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89495",
+   "isValid": "",
+   "plural": "Важные шишки",
+   "title": "Важная шишка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89496",
+   "isValid": "",
+   "plural": "Ябеды",
+   "title": "Ябеда"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89764",
+   "isValid": "",
+   "plural": "Циники",
+   "title": "Циник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89783",
+   "isValid": "",
+   "plural": "Плаксы",
+   "title": "Плакса"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89785",
+   "isValid": "",
+   "plural": "[n]гости[/n][f]гостьи[/f][m]гости[/m]",
+   "title": "[n]гость[/n][f]гостья[/f][m]гость[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89786",
+   "isValid": "",
+   "plural": "Судьи",
+   "title": "Судья"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89909",
+   "isValid": "",
+   "plural": "Снобы",
+   "title": "Сноб"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89911",
+   "isValid": "",
+   "plural": "пионеры",
+   "title": "[n]пионер[/n][f]пионерка[/f][m]пионер[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89912",
+   "isValid": "",
+   "plural": "[n]законодатели[/n][f]законодательницы[/f][m]законодатели[/m] моды",
+   "title": "[n]законодатель[/n][f]законодательница[/f][m]законодатель[/m] моды"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89914",
+   "isValid": "",
+   "plural": "Выскочки",
+   "title": "Выскочка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89915",
+   "isValid": "",
+   "plural": "Неженки",
+   "title": "Неженка"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89997",
+   "isValid": "",
+   "plural": "театральные [n]специалисты[/n][f]специалистки[/f][m]специалисты[/m]",
+   "title": "[n]театральный специалист[/n][f]театральная специалистка[/f][m]театральный специалист[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89998",
+   "isValid": "",
+   "plural": "Деревенщины",
+   "title": "Деревенщина"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89999",
+   "isValid": "",
+   "plural": "Симпатяшки",
+   "title": "Симпатяшка"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90001",
+   "isValid": "",
+   "plural": "[n]отличники[/n][f]отличницы[/f][m]отличники[/m]",
+   "title": "[n]отличник[/n][f]отличница[/f][m]отличник[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90002",
+   "isValid": "",
+   "plural": "[n]помощники[/n][f]помощницы[/f][m]помощники[/m]",
+   "title": "[n]помощник[/n][f]помощница[/f][m]помощник[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90005",
+   "isValid": "",
+   "plural": "[n]волшебники[/n][f]волшебницы[/f][m]волшебники[/m]",
+   "title": "[n]волшебник[/n][f]волшебница[/f][m]волшебник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90006",
+   "isValid": "",
+   "plural": "Шеф-повары",
+   "title": "Шеф-повар"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90007",
+   "isValid": "",
+   "plural": "Няни",
+   "title": "Няня"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90008",
+   "isValid": "",
+   "plural": "[n]маньяки[/n][f]маньячки[/f][m]маньяки[/m]",
+   "title": "[n]маньяк[/n][f]маньячка[/f][m]маньяк[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90009",
+   "isValid": "",
+   "plural": "[n]тяжелоатлеты[/n][f]тяжелоатлетки[/f][m]тяжелоатлеты[/m]",
+   "title": "[n]тяжелоатлет[/n][f]тяжелоатлетка[/f][m]тяжелоатлет[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90065",
+   "isValid": "",
+   "plural": "[n]негодяи[/n][f]негодяйки[/f][m]негодяи[/m]",
+   "title": "[n]негодяй[/n][f]негодяйка[/f][m]негодяй[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90066",
+   "isValid": "",
+   "plural": "Вонючки",
+   "title": "Вонючка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90095",
+   "isValid": "",
+   "plural": "Китобои",
+   "title": "Китобой"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90096",
+   "isValid": "",
+   "plural": "Рыбаки-нахлыстовики",
+   "title": "Рыбак-нахлыстовик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90139",
+   "isValid": "",
+   "plural": "Рок-звёзды",
+   "title": "Рок-звезда"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90140",
+   "isValid": "",
+   "plural": "Игроки",
+   "title": "Игрок"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90141",
+   "isValid": "",
+   "plural": "Большие боссы",
+   "title": "Большой босс"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90142",
+   "isValid": "",
+   "plural": "[n]отцы[/n][f]матери[/f][m]отцы[/m]",
+   "title": "[n]отец[/n][f]мать[/f][m]отец[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90143",
+   "isValid": "",
+   "plural": "[n]воры[/n][f]воровки[/f][m]воры[/m] ювелира",
+   "title": "[n]вор[/n][f]воровка[/f][m]вор[/m] ювелира"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90144",
+   "isValid": "",
+   "plural": "Плюшевые медвежата",
+   "title": "Плюшевый медвежонок"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90145",
+   "isValid": "",
+   "plural": "Фараоны",
+   "title": "Фараон"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90146",
+   "isValid": "",
+   "plural": "Хирурги",
+   "title": "Хирург"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90147",
+   "isValid": "",
+   "plural": "Врачи",
+   "title": "Врач"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90148",
+   "isValid": "",
+   "plural": "вожатые",
+   "title": "[n]вожатый[/n][f]вожатая[/f][m]вожатый[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90149",
+   "isValid": "",
+   "plural": "Джинны",
+   "title": "Джинн"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90153",
+   "isValid": "",
+   "plural": "Математические гении",
+   "title": "Математический гений"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90272",
+   "isValid": "",
+   "plural": "Напуганные котики",
+   "title": "Напуганный котик"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90273",
+   "isValid": "",
+   "plural": "[n]официанты[/n][f]официантки[/f][m]официанты[/m]",
+   "title": "[n]официант[/n][f]официантка[/f][m]официант[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90274",
+   "isValid": "",
+   "plural": "[n]благотворители[/n][f]благотоврительницы[/f][m]благотворители[/m]",
+   "title": "[n]благотворитель[/n][f]благотворительницы[/f][m]благотворитель[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90275",
+   "isValid": "",
+   "plural": "[n]двоечники[/n][f]двоечницы[/f][m]двоечники[/m]",
+   "title": "[n]двоечник[/n][f]двоечница[/f][m]двоечник[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90276",
+   "isValid": "",
+   "plural": "[n]ремонтники[/n][f]ремонтницы[/f][m]ремонтники[/m]",
+   "title": "[n]ремонтник[/n][f]ремонтница[/f][m]ремонтник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90277",
+   "isValid": "",
+   "plural": "Британские няни",
+   "title": "Британская няня"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90278",
+   "isValid": "",
+   "plural": "Болваны",
+   "title": "Болван"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90287",
+   "isValid": "",
+   "plural": "[n]граффити-художники[/n][f]граффити-художницы[/f][m]граффити-художники[/m]",
+   "title": "[n]граффити-художник[/n][f]граффити-художница[/f][m]граффити-художник[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90288",
+   "isValid": "",
+   "plural": "ведущие игровых шоу",
+   "title": "[n]ведущий[/n][f]ведущая[/f][m]ведущий[/m] игровых шоу"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90289",
+   "isValid": "",
+   "plural": "Свистуны",
+   "title": "Свистун"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90290",
+   "isValid": "",
+   "plural": "Мастера пирогов",
+   "title": "Мастер пирогов"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90291",
+   "isValid": "",
+   "plural": "[n]боги[/n][f]богини[/f][m]боги[/m] дискотеки",
+   "title": "[n]бог[/n][f]богиня[/f][m]бог[/m] дискотеки"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90292",
+   "isValid": "",
+   "plural": "[n]машинисты[/n][f]машинистки[/f][m]машинисты[/m]",
+   "title": "[n]машинист[/n][f]машинистка[/f][m]машинист[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90293",
+   "isValid": "",
+   "plural": "олимпийские [n]чемпионы[/n][f]чемпионки[/f][m]чемпионы[/m]",
+   "title": "[n]олимпийский чемпион[/n][f]олимпийская чемпионка[/f][m]олимпийский чемпион[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90295",
+   "isValid": "",
+   "plural": "Бодибилдеры",
+   "title": "Бодибилдер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90296",
+   "isValid": "",
+   "plural": "Озорные",
+   "title": "[n]Озорной[/n][f]Озорная[/f][m]Озорной[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90297",
+   "isValid": "",
+   "plural": "[n]ныряльщики[/n][f]ныряльщицы[/f][m]ныряльщики[/m]",
+   "title": "[n]ныряльщик[/n][f]ныряльщица[/f][m]ныряльщик[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90298",
+   "isValid": "",
+   "plural": "Болотные твари",
+   "title": "Болотная тварь"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90299",
+   "isValid": "",
+   "plural": "Дивы",
+   "title": "Дива"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90300",
+   "isValid": "",
+   "plural": "церковные [n]певцы[/n][f]певицы[/f][m]певцы[/m]",
+   "title": "[n]церковный певец[/n][f]церковная певица[/f][m]церковный певец[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90301",
+   "isValid": "",
+   "plural": "Губернаторы",
+   "title": "Губернатор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90303",
+   "isValid": "",
+   "plural": "супруги звёзд",
+   "title": "[n]супруг[/n][f]супруга[/f][m]супруг[/m] звезды"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90304",
+   "isValid": "",
+   "plural": "Президенты",
+   "title": "Президент"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90306",
+   "isValid": "",
+   "plural": "Трудные подростки",
+   "title": "Трудный подросток"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90307",
+   "isValid": "",
+   "plural": "Ораторы",
+   "title": "Оратор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90386",
+   "isValid": "",
+   "plural": "[n]пастухи[/n][f]пастушки[/f][m]пастухи[/m] коз",
+   "title": "[n]пастух[/n][f]пастушка[/f][m]пастух[/m] коз"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90388",
+   "isValid": "",
+   "plural": "Безработные",
+   "title": "[n]Безработный[/n][f]Безработная[/f][m]Безработный[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90389",
+   "isValid": "",
+   "plural": "Трубочисты",
+   "title": "Трубочист"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90401",
+   "isValid": "",
+   "plural": "Горячие штучки",
+   "title": "Горячая штучка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90402",
+   "isValid": "",
+   "plural": "Интроверты",
+   "title": "Интроверт"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90403",
+   "isValid": "",
+   "plural": "Экстраверты",
+   "title": "Экстраверт"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90438",
+   "isValid": "",
+   "plural": "[n]яжотцы[/n][f]яжматери[/f][m]яжотцы[/m]",
+   "title": "[n]яжотец[/n][f]яжмать[/f][m]яжотец[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90440",
+   "isValid": "",
+   "plural": "Подростки",
+   "title": "Подросток"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90441",
+   "isValid": "",
+   "plural": "Обычные люди",
+   "title": "Обычный человек"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90443",
+   "isValid": "",
+   "plural": "[n]мамины сынки[/n][f]папины дочки[/f][m]мамины сынки[/m]",
+   "title": "[n]мамин сынок[/n][f]папина дочка[/f][m]мамин сынок[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90444",
+   "isValid": "",
+   "plural": "Киноманы",
+   "title": "Киноман"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90445",
+   "isValid": "",
+   "plural": "[n]металлисты[/n][f]металлистки[/f][m]металлисты[/m]",
+   "title": "[n]металлист[/n][f]металлистка[/f][m]металлист[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90446",
+   "isValid": "",
+   "plural": "[n]горожане[/n][f]горожанки[/f][m]горожане[/m]",
+   "title": "[n]горожанин[/n][f]горожанка[/f][m]горожанин[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90447",
+   "isValid": "",
+   "plural": "[n]мясоеды[/n][f]мясоедки[/f][m]мясоеды[/m]",
+   "title": "[n]мясоед[/n][f]мясоедка[/f][m]мясоед[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90448",
+   "isValid": "",
+   "plural": "[n]европейцы[/n][f]европейки[/f][m]европейцы[/m]",
+   "title": "[n]европеец[/n][f]европейка[/f][m]европеец[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90493",
+   "isValid": "",
+   "plural": "Вышибалы",
+   "title": "Вышибала"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90582",
+   "isValid": "",
+   "plural": "Паиньки",
+   "title": "Паинька"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90652",
+   "isValid": "",
+   "plural": "[n]скопидомы[/n][f]скопидомки[/f][m]скопидомы[/m]",
+   "title": "[n]скопидом[/n][f]скопидомка[/f][m]скопидом[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90783",
+   "isValid": "",
+   "plural": "[n]самогонщики[/n][f]самогонщицы[/f][m]самогонщики[/m]",
+   "title": "[n]самогонщик[/n][f]самогонщица[/f][m]самогонщик[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90815",
+   "isValid": "",
+   "plural": "[n]братья[/n][f]сестры[/f][m]братья[/m]",
+   "title": "[n]брат[/n][f]сестра[/f][m]брат[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91053",
+   "isValid": "",
+   "plural": "[n]интриганы[/n][f]интриганки[/f][m]интриганы[/m]",
+   "title": "[n]интриган[/n][f]интриганка[/f][m]интриган[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91107",
+   "isValid": "",
+   "plural": "Частные детективы",
+   "title": "Частный детектив"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91108",
+   "isValid": "",
+   "plural": "Шуты",
+   "title": "Шут"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91109",
+   "isValid": "",
+   "plural": "Простодушные",
+   "title": "[n]Простодушный[/n][f]Простодушная[/f][m]Простодушный[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91110",
+   "isValid": "",
+   "plural": "Психоаналитики",
+   "title": "Психоаналитик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91170",
+   "isValid": "",
+   "plural": "Хейтеры",
+   "title": "Хейтер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91173",
+   "isValid": "",
+   "plural": "Пекари",
+   "title": "Пекарь"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91174",
+   "isValid": "",
+   "plural": "Банкиры",
+   "title": "Банкир"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91175",
+   "isValid": "",
+   "plural": "раскритикованные [n]поэты[/n][f]поэтессы[/f][m]поэты[/m]",
+   "title": "[n]раскритикованный поэт[/n][f]раскритикованная поэтесса[/f][m]раскритикованный поэт[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91176",
+   "isValid": "",
+   "plural": "Бигфуты",
+   "title": "Бигфут"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91178",
+   "isValid": "",
+   "plural": "Конкурсные тренеры",
+   "title": "Конкурсный тренер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91181",
+   "isValid": "",
+   "plural": "[n]чревовещатели[/n][f]чревовещательницы[/f][m]чревовещатели[/m]",
+   "title": "[n]чревовещатель[/n][f]чревовещательница[/f][m]чревовещатель[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91182",
+   "isValid": "",
+   "plural": "[n]пикаперы[/n][f]пикаперши[/f][m]пикаперы[/m]",
+   "title": "[n]пикапер[/n][f]пикаперша[/f][m]пикапер[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91183",
+   "isValid": "",
+   "plural": "Сокольники",
+   "title": "Сокольник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91395",
+   "isValid": "",
+   "plural": "Лепреконы",
+   "title": "Лепрекон"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91398",
+   "isValid": "",
+   "plural": "Подмастерья",
+   "title": "Подмастерье"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91399",
+   "isValid": "",
+   "plural": "[n]маги[/n][f]ведьмы[/f][m]маги[/m]",
+   "title": "[n]маг[/n][f]ведьма[/f][m]маг[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91400",
+   "isValid": "",
+   "plural": "Сельские адвокаты",
+   "title": "Сельский адвокат"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91401",
+   "isValid": "",
+   "plural": "Держатели знака",
+   "title": "Держатель знака"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91445",
+   "isValid": "",
+   "plural": "одинокие [n]волки[/n][f]волчицы[/f][m]волки[/m]",
+   "title": "[n]одинокий волк[/n][f]одинокая волчица[/f][m]одинокий волк[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91510",
+   "isValid": "",
+   "plural": "Профессиональные едоки",
+   "title": "Профессиональный едок"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91511",
+   "isValid": "",
+   "plural": "[n]уборщики[/n][f]уборщицы[/f][m]уборщики[/m]",
+   "title": "[n]уборщик[/n][f]уборщица[/f][m]уборщик[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91513",
+   "isValid": "",
+   "plural": "Плотники",
+   "title": "Плотник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91517",
+   "isValid": "",
+   "plural": "Политики",
+   "title": "Политик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91518",
+   "isValid": "",
+   "plural": "Феодалы",
+   "title": "Феодал"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91607",
+   "isValid": "",
+   "plural": "Пчеловоды",
+   "title": "Пчеловод"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91608",
+   "isValid": "",
+   "plural": "Тайные агенты",
+   "title": "Тайный агент"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91609",
+   "isValid": "",
+   "plural": "[n]смотрители[/n][f]смотрительницы[/f][m]смотрители[/m] орлов",
+   "title": "[n]смотритель[/n][f]смотрительница[/f][m]смотритель[/m] орлов"
+  },
+  {
+   "hasAdjective": false,
+   "id": "92332",
+   "isValid": "",
+   "plural": "Базированные",
+   "title": "[n]Базированный[/n][f]Базированная[/f][m]Базированный[/m]"
+  },
+  {
+   "hasAdjective": true,
+   "id": "92377",
+   "isValid": "",
+   "plural": "[n]кошатники[/n][f]кошатницы[/f][m]кошатники[/m]",
+   "title": "[n]кошатник[/n][f]кошатница[/f][m]кошатник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "92378",
+   "isValid": "",
+   "plural": "Обниматели",
+   "title": "Обниматель"
+  },
+  {
+   "hasAdjective": false,
+   "id": "92543",
+   "isValid": "",
+   "plural": "Кумиры",
+   "title": "Кумир"
+  },
+  {
+   "hasAdjective": true,
+   "id": "92544",
+   "isValid": "",
+   "plural": "[n]герои[/n][f]героини[/f][m]герои[/m]",
+   "title": "[n]герой[/n][f]героиня[/f][m]герой[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "93220",
+   "isValid": "",
+   "plural": "Бабушки",
+   "title": "Бабушка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "93221",
+   "isValid": "",
+   "plural": "Дедушки",
+   "title": "Дедушка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "93222",
+   "isValid": "",
+   "plural": "Дяди",
+   "title": "Дядя"
+  },
+  {
+   "hasAdjective": false,
+   "id": "93223",
+   "isValid": "",
+   "plural": "Тёти",
+   "title": "Тётя"
+  },
+  {
+   "hasAdjective": false,
+   "id": "93224",
+   "isValid": "",
+   "plural": "Cкорпионы",
+   "title": "Скорпион"
+  },
+  {
+   "hasAdjective": true,
+   "id": "93236",
+   "isValid": "",
+   "plural": "[n]бездельники[/n][f]бездельницы[/f][m]бездельники[/m]",
+   "title": "[n]бездельник[/n][f]бездельница[/f][m]бездельник[/m]"
+  },
+  {
+   "hasAdjective": false,
+   "id": "93318",
+   "isValid": "",
+   "plural": "Эмпаты",
+   "title": "Эмпат"
+  },
+  {
+   "hasAdjective": false,
+   "id": "93765",
+   "isValid": "",
+   "plural": "Кайфоломы",
+   "title": "Кайфолом"
+  },
+  {
+   "hasAdjective": false,
+   "id": "94604",
+   "isValid": "",
+   "plural": "Крутые мамаши",
+   "title": "Крутая мамаша"
+  }
+ ]
+}
