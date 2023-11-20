@@ -1,0 +1,100 @@
+{
+ "content": [
+  {
+   "difficulty": "EASY",
+   "id": "88278",
+   "isValid": "",
+   "text": "Придумайте название фильма"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "88287",
+   "isValid": "",
+   "text": "Придумайте имя для человека"
+  },
+  {
+   "difficulty": "MEDIUM",
+   "id": "88366",
+   "isValid": "",
+   "text": "Придумайте статус для соцсети"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "88374",
+   "isValid": "",
+   "text": "Напишите текстовое сообщение"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "89118",
+   "isValid": "",
+   "text": "Придумайте название игры"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "89416",
+   "isValid": "",
+   "text": "Придумайте название книги"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "89425",
+   "isValid": "",
+   "text": "Напишите небольшой совет"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "89448",
+   "isValid": "",
+   "text": "Придумайте название ресторана"
+  },
+  {
+   "difficulty": "MEDIUM",
+   "id": "89975",
+   "isValid": "",
+   "text": "Придумайте фразу"
+  },
+  {
+   "difficulty": "HARD",
+   "id": "90150",
+   "isValid": "",
+   "text": "Придумайте заголовок к новостям"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "90511",
+   "isValid": "",
+   "text": "Придумайте место"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "90515",
+   "isValid": "",
+   "text": "Придумайте название парфюма"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "90516",
+   "isValid": "",
+   "text": "Придумайте имя для группы или музыканта"
+  },
+  {
+   "difficulty": "MEDIUM",
+   "id": "91587",
+   "isValid": "",
+   "text": "Придумайте реплику для диалога"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "93486",
+   "isValid": "",
+   "text": "Придумайте прозвище"
+  },
+  {
+   "difficulty": "MEDIUM",
+   "id": "94253",
+   "isValid": "",
+   "text": "Напишите извинение или отговорку"
+  }
+ ]
+}

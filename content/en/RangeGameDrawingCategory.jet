@@ -1,0 +1,94 @@
+{
+ "content": [
+  {
+   "difficulty": "MEDIUM",
+   "id": "88300",
+   "isValid": "",
+   "text": "Нарисуйте татуировку"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "88720",
+   "isValid": "",
+   "text": "Нарисуйте лицо"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "88777",
+   "isValid": "",
+   "text": "Нарисуйте монстра"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "89101",
+   "isValid": "",
+   "text": "Нарисуйте игрушку"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "89217",
+   "isValid": "",
+   "text": "Нарисуйте питомца"
+  },
+  {
+   "difficulty": "HARD",
+   "id": "89225",
+   "isValid": "",
+   "text": "Нарисуйте дом"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "89339",
+   "isValid": "",
+   "text": "Нарисуйте клоуна"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "89438",
+   "isValid": "",
+   "text": "Нарисуйте птицу"
+  },
+  {
+   "difficulty": "HARD",
+   "id": "89462",
+   "isValid": "",
+   "text": "Нарисуйте логотип"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "89987",
+   "isValid": "",
+   "text": "Нарисуйте жука"
+  },
+  {
+   "difficulty": "HARD",
+   "id": "90506",
+   "isValid": "",
+   "text": "Нарисуйте карту"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "90509",
+   "isValid": "",
+   "text": "Нарисуйте робота"
+  },
+  {
+   "difficulty": "EASY",
+   "id": "90714",
+   "isValid": "",
+   "text": "Нарисуйте еду"
+  },
+  {
+   "difficulty": "MEDIUM",
+   "id": "90717",
+   "isValid": "",
+   "text": "Нарисуйте закорючку"
+  },
+  {
+   "difficulty": "MEDIUM",
+   "id": "90718",
+   "isValid": "",
+   "text": "Нарисуйте одежду"
+  }
+ ]
+}

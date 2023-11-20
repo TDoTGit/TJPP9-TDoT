@@ -1,0 +1,79 @@
+{
+ "content": [
+  {
+   "allowedAuthorRangeValues": "NO_MIDS",
+   "categoryId": "XXXX",
+   "countrySpecific": false,
+   "id": "90768",
+   "isValid": "",
+   "preferredMax": 0,
+   "preferredMin": 0,
+   "promptText": "Напиши вкус мороженого, который большинство людей оценило бы на {{ratio}}",
+   "questionText": "Насколько вкусно мороженое с таким вкусом?",
+   "rangeMax": "НЯМ-НЯМ, ВКУСНЯТИНА",
+   "rangeMin": "БЯКА",
+   "rangeType": "1_TO_10",
+   "x": false
+  },
+  {
+   "allowedAuthorRangeValues": "ALL",
+   "categoryId": "XXXX",
+   "countrySpecific": false,
+   "id": "90769",
+   "isValid": "",
+   "preferredMax": 0,
+   "preferredMin": 0,
+   "promptText": "Напиши название реально существующего фильма, который вы бы оценили на {{ratio}}",
+   "questionText": "Насколько хорош этот фильм?",
+   "rangeMax": "ХОРОШИЙ ФИЛЬМ",
+   "rangeMin": "ПЛОХОЙ ФИЛЬМ",
+   "rangeType": "1_TO_10",
+   "x": false
+  },
+  {
+   "allowedAuthorRangeValues": "ALL",
+   "categoryId": "XXXX",
+   "countrySpecific": false,
+   "id": "90770",
+   "isValid": "",
+   "preferredMax": 0,
+   "preferredMin": 0,
+   "promptText": "Напиши название реально существующей песни, которая нравится {{ratio}} людей ",
+   "questionText": "Какому проценту людей нравится эта песня?",
+   "rangeMax": "ВСЕ ЛЮБЯТ ЕЁ",
+   "rangeMin": "ВСЕ НЕНАВИДЯТ ЕЁ",
+   "rangeType": "PERCENT",
+   "x": false
+  },
+  {
+   "allowedAuthorRangeValues": "ALL",
+   "categoryId": "XXXX",
+   "countrySpecific": false,
+   "id": "90771",
+   "isValid": "",
+   "preferredMax": 0,
+   "preferredMin": 0,
+   "promptText": "Напиши упражнение, которое сложно выполнить на {{ratio}}",
+   "questionText": "Насколько сложно выполнить это упражнение?",
+   "rangeMax": "СЛИШКОМ СЛОЖНО",
+   "rangeMin": "СЛИШКОМ ЛЕГКО",
+   "rangeType": "1_TO_10",
+   "x": false
+  },
+  {
+   "allowedAuthorRangeValues": "ALL",
+   "categoryId": "XXXX",
+   "countrySpecific": false,
+   "id": "90772",
+   "isValid": "",
+   "preferredMax": 0,
+   "preferredMin": 0,
+   "promptText": "Напиши название реально существующего вида спорта, который легко освоить на {{ratio}}",
+   "questionText": "Насколько легко освоить этот вид спорта?",
+   "rangeMax": "ЛЕГКО",
+   "rangeMin": "СЛОЖНО",
+   "rangeType": "1_TO_10",
+   "x": false
+  }
+ ]
+}
