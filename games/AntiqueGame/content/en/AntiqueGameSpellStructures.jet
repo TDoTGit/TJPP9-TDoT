@@ -1,0 +1,84 @@
+{
+ "content": [
+  {
+   "id": "92229",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327"
+    }
+   ],
+   "structure": "Превращает вас в {{BLANK}}" 
+  },
+  {
+   "id": "92230",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92329"
+    }
+   ],
+   "structure": "Защищает вас от {{BLANK}}" 
+  },
+  {
+   "id": "92231",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92505"
+    }
+   ],
+   "structure": "Делает вас похожим на {{BLANK}}" 
+  },
+  {
+   "id": "92232",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92328"
+    }
+   ],
+   "structure": "Затопляет {{BLANK}}"
+  },
+  { 
+   "id": "92233",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327" 
+    }
+   ],
+   "structure": "Призывает {{BLANK}}"
+  }, 
+  {
+   "id": "92234",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93219"
+    }
+   ],
+   "structure": "Дарует вам {{BLANK}}" 
+  },
+  {
+   "id": "92235",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93225"
+    }
+   ],
+   "structure": "Делает вашего врага {{BLANK}}" 
+  },
+  {
+   "id": "92237",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92367"
+    }
+   ],
+   "structure": "Наполняет карманы ваших врагов {{BLANK}}"
+  }
+ ]
+}

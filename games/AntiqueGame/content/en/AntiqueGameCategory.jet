@@ -1,0 +1,88 @@
+{
+ "content": [
+  {
+   "category": "Кукломаркет Дарии",
+   "id": "88198",
+   "isValid": "",
+   "titlePrompt": "Имя у этой куклы - {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Чудесные статуэтки Стаса",
+   "id": "88199",
+   "isValid": "",
+   "titlePrompt": "Имя этой статуэтки - {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Игрушка-развлекушка Сашки",
+   "id": "88200",
+   "isValid": "",
+   "titlePrompt": "Имя у этой игрушки - {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Магазин картин Ирин",
+   "id": "88201",
+   "isValid": "",
+   "titlePrompt": "Имя у этого произведения искусства - {{BLANK}}",
+   "weight": 2
+  },
+  {
+   "category": "Инструменты Жени",
+   "id": "88202",
+   "isValid": "",
+   "titlePrompt": "Имя у этого инструмента - {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Статуэтки Матвея",
+   "id": "88203",
+   "isValid": "",
+   "titlePrompt": "Имя у этой статуэтки - {{BLANK}}",
+   "weight": 2
+  },
+  {
+   "category": "Техностол Родиона",
+   "id": "88204",
+   "isValid": "",
+   "titlePrompt": "Имя у этого устройства - {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Рабочие столики Фёдора",
+   "id": "88205",
+   "isValid": "",
+   "titlePrompt": "Люди обычно называют - {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Модные аксессуары Франца",
+   "id": "88206",
+   "isValid": "",
+   "titlePrompt": "Имя у этого аксессуара - {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Разнообразные сосуды Веры",
+   "id": "88207",
+   "isValid": "",
+   "titlePrompt": "Предыдущие владельцы называют этот товар - {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Магазин декора Декорочка",
+   "id": "88208",
+   "isValid": "",
+   "titlePrompt": "Название этого поразительного произведения такое - {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Огромная свалка",
+   "id": "88209",
+   "isValid": "",
+   "titlePrompt": "Имя у этого - {{BLANK}}",
+   "weight": 2
+  }
+ ]
+}
